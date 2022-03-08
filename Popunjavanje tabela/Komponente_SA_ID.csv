@@ -1,0 +1,1401 @@
+id_komponente,ime_proizvodjaca,tip_komponente,ime,kolicina_memorije,dimenzija,tip,kapacitet,brzina_obrtaja,brzina,cipset,frekvencija,broj_jezgara,broj_racunara
+87623,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,28085
+86344,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,84062
+36228,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,17053
+75320,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,7922
+77555,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,63545
+10994,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,97088
+27508,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,34207
+19834,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,623
+64759,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,8301
+3346,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,95832
+78091,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,17976
+85258,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3091,24GB GDDR6X,,,,,,,,,61108
+36379,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3092,24GB GDDR6X,,,,,,,,,79150
+32810,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3093,24GB GDDR6X,,,,,,,,,20982
+42221,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3094,24GB GDDR6X,,,,,,,,,86211
+19133,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,50657
+14033,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,51955
+59053,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,97823
+36217,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,34925
+23823,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,72689
+50128,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,99345
+64753,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,46273
+65148,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,52512
+14601,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,24660
+9237,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3090,24GB GDDR6X,,,,,,,,,11393
+3017,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,95566
+43888,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,87348
+59750,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,78046
+65903,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,22852
+37274,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080 Ti,12GB GDDR6X,,,,,,,,,80761
+40922,AMD,Grafièka kartica,AMD Radeon RX 6900 XT,16GB GDDR6,,,,,,,,,68627
+10098,AMD,Grafièka kartica,AMD Radeon RX 6900 XT,16GB GDDR6,,,,,,,,,93207
+11445,AMD,Grafièka kartica,AMD Radeon RX 6900 XT,16GB GDDR6,,,,,,,,,96030
+72804,AMD,Grafièka kartica,AMD Radeon RX 6900 XT,16GB GDDR6,,,,,,,,,97113
+59667,AMD,Grafièka kartica,AMD Radeon RX 6900 XT,16GB GDDR6,,,,,,,,,75258
+89986,AMD,Grafièka kartica,AMD Radeon RX 6800 XT,16GB GDDR6,,,,,,,,,4944
+15837,AMD,Grafièka kartica,AMD Radeon RX 6800 XT,16GB GDDR6,,,,,,,,,68309
+62028,AMD,Grafièka kartica,AMD Radeon RX 6800 XT,16GB GDDR6,,,,,,,,,42399
+19727,AMD,Grafièka kartica,AMD Radeon RX 6800 XT,16GB GDDR6,,,,,,,,,20665
+1921,AMD,Grafièka kartica,AMD Radeon RX 6800 XT,16GB GDDR6,,,,,,,,,26177
+49452,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080,10GB GDDR6X,,,,,,,,,33210
+16156,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080,10GB GDDR6X,,,,,,,,,65614
+49966,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080,10GB GDDR6X,,,,,,,,,21709
+92341,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080,10GB GDDR6X,,,,,,,,,98605
+58871,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3080,10GB GDDR6X,,,,,,,,,67233
+46206,AMD,Grafièka kartica,AMD Radeon RX 6800,16GB GDDR6,,,,,,,,,58673
+39969,AMD,Grafièka kartica,AMD Radeon RX 6800,16GB GDDR6,,,,,,,,,3375
+78718,AMD,Grafièka kartica,AMD Radeon RX 6800,16GB GDDR6,,,,,,,,,97132
+75873,AMD,Grafièka kartica,AMD Radeon RX 6800,16GB GDDR6,,,,,,,,,63670
+57506,AMD,Grafièka kartica,AMD Radeon RX 6800,16GB GDDR6,,,,,,,,,16466
+48145,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,71366
+21722,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,87863
+20035,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,48460
+32738,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,88497
+68993,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,22674
+30441,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,35812
+84439,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,26767
+56823,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,34616
+64496,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,51498
+29637,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,48805
+16567,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,52370
+88791,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,12458
+67854,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,60547
+6666,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,6728
+80782,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070 Ti,8GB GDDR6X,,,,,,,,,30650
+41572,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,37694
+19356,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,7314
+5709,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,23347
+52504,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,52351
+69692,Nvidia,Grafièka kartica,Nvidia Titan RTX,24GB GDDR6,,,,,,,,,77534
+55704,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Ti,11GB GDDR6,,,,,,,,,93624
+98453,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Ti,11GB GDDR6,,,,,,,,,95711
+20846,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Ti,11GB GDDR6,,,,,,,,,93195
+60882,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Ti,11GB GDDR6,,,,,,,,,60312
+42472,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Ti,11GB GDDR6,,,,,,,,,38312
+82018,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070,8GB GDDR6,,,,,,,,,35317
+90083,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070,8GB GDDR6,,,,,,,,,63999
+83683,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070,8GB GDDR6,,,,,,,,,5733
+53187,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070,8GB GDDR6,,,,,,,,,1523
+64786,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3070,8GB GDDR6,,,,,,,,,37646
+3825,AMD,Grafièka kartica,AMD Radeon RX 6700 XT,12GB GDDR6,,,,,,,,,84598
+1408,AMD,Grafièka kartica,AMD Radeon RX 6700 XT,12GB GDDR6,,,,,,,,,83107
+83086,AMD,Grafièka kartica,AMD Radeon RX 6700 XT,12GB GDDR6,,,,,,,,,77893
+61023,AMD,Grafièka kartica,AMD Radeon RX 6700 XT,12GB GDDR6,,,,,,,,,46513
+60791,AMD,Grafièka kartica,AMD Radeon RX 6700 XT,12GB GDDR6,,,,,,,,,46657
+30232,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,22958
+12793,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,80862
+472,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,40526
+45618,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,56034
+32077,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,40326
+51082,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,40290
+66457,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,99694
+13093,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,84809
+34457,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,63348
+49900,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,71159
+23673,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,96426
+4517,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,84475
+8214,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,92426
+82860,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,15630
+38123,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 Ti,8GB GDDR6,,,,,,,,,87431
+22070,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,30876
+50676,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,86728
+25956,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,28593
+2934,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,92652
+5031,Nvidia,Grafièka kartica,Nvidia Titan V,12GB HBM2,,,,,,,,,79898
+20791,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Super,8GB GDDR6,,,,,,,,,48767
+75274,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Super,8GB GDDR6,,,,,,,,,37080
+22742,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Super,8GB GDDR6,,,,,,,,,41459
+91703,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Super,8GB GDDR6,,,,,,,,,19157
+45255,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080 Super,8GB GDDR6,,,,,,,,,94783
+90583,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080,8GB GDDR6,,,,,,,,,46175
+78077,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080,8GB GDDR6,,,,,,,,,61733
+43908,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080,8GB GDDR6,,,,,,,,,17143
+53994,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080,8GB GDDR6,,,,,,,,,86904
+75671,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2080,8GB GDDR6,,,,,,,,,46622
+39629,Nvidia,Grafièka kartica,Nvidia Titan Xp,12GB GDDR5X,,,,,,,,,67661
+99257,Nvidia,Grafièka kartica,Nvidia Titan Xp,12GB GDDR5X,,,,,,,,,49973
+82109,Nvidia,Grafièka kartica,Nvidia Titan Xp,12GB GDDR5X,,,,,,,,,69808
+64396,Nvidia,Grafièka kartica,Nvidia Titan Xp,12GB GDDR5X,,,,,,,,,18996
+12682,Nvidia,Grafièka kartica,Nvidia Titan Xp,12GB GDDR5X,,,,,,,,,21753
+52132,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070 Super,8GB GDDR6,,,,,,,,,96950
+27185,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070 Super,8GB GDDR6,,,,,,,,,48303
+74479,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070 Super,8GB GDDR6,,,,,,,,,64575
+98586,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070 Super,8GB GDDR6,,,,,,,,,6312
+21847,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070 Super,8GB GDDR6,,,,,,,,,44971
+26018,AMD,Grafièka kartica,AMD Radeon VII,16GB HBM2,,,,,,,,,35979
+90158,AMD,Grafièka kartica,AMD Radeon VII,16GB HBM2,,,,,,,,,46350
+40991,AMD,Grafièka kartica,AMD Radeon VII,16GB HBM2,,,,,,,,,55899
+12499,AMD,Grafièka kartica,AMD Radeon VII,16GB HBM2,,,,,,,,,42596
+20897,AMD,Grafièka kartica,AMD Radeon VII,16GB HBM2,,,,,,,,,60959
+25771,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,72596
+90664,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,10239
+91690,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,93515
+2122,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,97520
+62462,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,83348
+14712,AMD,Grafièka kartica,AMD Radeon RX 5700 XT,8GB GDDR6,,,,,,,,,58116
+49541,AMD,Grafièka kartica,AMD Radeon RX 5700 XT,8GB GDDR6,,,,,,,,,47586
+29170,AMD,Grafièka kartica,AMD Radeon RX 5700 XT,8GB GDDR6,,,,,,,,,14521
+3011,AMD,Grafièka kartica,AMD Radeon RX 5700 XT,8GB GDDR6,,,,,,,,,65863
+35696,AMD,Grafièka kartica,AMD Radeon RX 5700 XT,8GB GDDR6,,,,,,,,,52887
+78287,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,42382
+23728,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,23489
+76849,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,42721
+41175,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,74760
+23218,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080 Ti,11GB GDDR5X,,,,,,,,,35688
+83369,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070,11GB GDDR5X,,,,,,,,,95889
+48763,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2071,11GB GDDR5X,,,,,,,,,84781
+67120,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2072,11GB GDDR5X,,,,,,,,,75287
+45296,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2073,11GB GDDR5X,,,,,,,,,33975
+83484,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2074,11GB GDDR5X,,,,,,,,,81873
+67526,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 12GB,12GB GDDR6,,,,,,,,,12558
+7419,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 12GB,12GB GDDR7,,,,,,,,,77350
+23056,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 12GB,12GB GDDR8,,,,,,,,,47320
+29486,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 12GB,12GB GDDR9,,,,,,,,,2986
+85461,Nvidia,Grafièka kartica,Nvidia GeForce RTX 3060 12GB,12GB GDDR10,,,,,,,,,38807
+79563,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070,8GB GDDR6,,,,,,,,,85417
+63700,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070,8GB GDDR6,,,,,,,,,16632
+80824,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070,8GB GDDR6,,,,,,,,,96880
+88779,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070,8GB GDDR6,,,,,,,,,31651
+66438,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2070,8GB GDDR6,,,,,,,,,7056
+84488,AMD,Grafièka kartica,AMD Radeon RX 5700,8GB GDDR6,,,,,,,,,76626
+7020,AMD,Grafièka kartica,AMD Radeon RX 5700,8GB GDDR6,,,,,,,,,66365
+66832,AMD,Grafièka kartica,AMD Radeon RX 5700,8GB GDDR6,,,,,,,,,3935
+55700,AMD,Grafièka kartica,AMD Radeon RX 5700,8GB GDDR6,,,,,,,,,2703
+55714,AMD,Grafièka kartica,AMD Radeon RX 5700,8GB GDDR6,,,,,,,,,32484
+3826,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2060 Super,8GB GDDR6,,,,,,,,,60629
+97221,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2060 Super,8GB GDDR6,,,,,,,,,27286
+39596,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2060 Super,8GB GDDR6,,,,,,,,,25959
+35636,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2060 Super,8GB GDDR6,,,,,,,,,50687
+67916,Nvidia,Grafièka kartica,Nvidia GeForce RTX 2060 Super,8GB GDDR6,,,,,,,,,22581
+96607,AMD,Grafièka kartica,AMD Radeon RX Vega 64,8GB HBM2,,,,,,,,,30559
+31660,AMD,Grafièka kartica,AMD Radeon RX Vega 64,8GB HBM2,,,,,,,,,75324
+39049,AMD,Grafièka kartica,AMD Radeon RX Vega 64,8GB HBM2,,,,,,,,,63790
+90966,AMD,Grafièka kartica,AMD Radeon RX Vega 64,8GB HBM2,,,,,,,,,67766
+21551,AMD,Grafièka kartica,AMD Radeon RX Vega 64,8GB HBM2,,,,,,,,,69265
+32454,AMD,Grafièka kartica,AMD Radeon RX 5600 XT,6GB GDDR6,,,,,,,,,77780
+21776,AMD,Grafièka kartica,AMD Radeon RX 5600 XT,6GB GDDR6,,,,,,,,,86038
+8745,AMD,Grafièka kartica,AMD Radeon RX 5600 XT,6GB GDDR6,,,,,,,,,92624
+87919,AMD,Grafièka kartica,AMD Radeon RX 5600 XT,6GB GDDR6,,,,,,,,,18665
+38887,AMD,Grafièka kartica,AMD Radeon RX 5600 XT,6GB GDDR6,,,,,,,,,32492
+59196,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,25316
+33759,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,37046
+41152,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,15593
+29426,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,67591
+21392,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,54932
+14392,Nvidia,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),2x8GB DDR4-3200,,,,,,,,,89415
+3391,Nvidia,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),2x8GB DDR4-3200,,,,,,,,,14682
+21632,Nvidia,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),2x8GB DDR4-3200,,,,,,,,,52527
+874,Nvidia,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),2x8GB DDR4-3200,,,,,,,,,59355
+19458,Nvidia,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),2x8GB DDR4-3200,,,,,,,,,25409
+31775,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,32872
+38327,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,73959
+42333,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,41463
+36712,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,40670
+76702,Nvidia,Grafièka kartica,Nvidia GeForce GTX 1080,8GB GDDR5X,,,,,,,,,89099
+48216,Intel,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),8GB GDDR5X,,,,,,,,,42243
+44979,Intel,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),8GB GDDR5X,,,,,,,,,24223
+26267,Intel,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),8GB GDDR5X,,,,,,,,,25504
+78261,Intel,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),8GB GDDR5X,,,,,,,,,52975
+73674,Intel,Grafièka kartica,Intel UHD Graphics 630 (i7-10700K),8GB GDDR5X,,,,,,,,,15615
+32418,Razer,Monitor,,,27,,,,,,,,28085
+46393,Razer,Monitor,,,27,,,,,,,,84062
+55173,Razer,Monitor,,,27,,,,,,,,17053
+66990,Razer,Monitor,,,27,,,,,,,,7922
+49755,Razer,Monitor,,,27,,,,,,,,63545
+2695,Asus ,Monitor,,,27,,,,,,,,97088
+95015,Asus ,Monitor,,,27,,,,,,,,34207
+89936,Asus ,Monitor,,,27,,,,,,,,623
+79566,Asus ,Monitor,,,27,,,,,,,,8301
+23807,Asus ,Monitor,,,27,,,,,,,,95832
+89036,Razer,Monitor,,,27,,,,,,,,17976
+83958,Razer,Monitor,,,27,,,,,,,,61108
+20915,Razer,Monitor,,,27,,,,,,,,79150
+24051,Razer,Monitor,,,27,,,,,,,,20982
+50173,Razer,Monitor,,,27,,,,,,,,86211
+90698,Asus ,Monitor,,,27,,,,,,,,50657
+68952,Asus ,Monitor,,,27,,,,,,,,51955
+1159,Asus ,Monitor,,,27,,,,,,,,97823
+79794,Asus ,Monitor,,,27,,,,,,,,34925
+35909,Asus ,Monitor,,,27,,,,,,,,72689
+98774,Razer,Monitor,,,27,,,,,,,,99345
+74591,Razer,Monitor,,,27,,,,,,,,46273
+45461,Razer,Monitor,,,27,,,,,,,,52512
+22471,Razer,Monitor,,,27,,,,,,,,24660
+36874,Razer,Monitor,,,27,,,,,,,,11393
+24115,Asus ,Monitor,,,27,,,,,,,,95566
+73606,Asus ,Monitor,,,27,,,,,,,,87348
+31671,Asus ,Monitor,,,27,,,,,,,,78046
+62327,Asus ,Monitor,,,27,,,,,,,,22852
+86630,Asus ,Monitor,,,27,,,,,,,,80761
+24718,ViewSonic,Monitor,,,27,,,,,,,,68627
+83708,ViewSonic,Monitor,,,27,,,,,,,,93207
+31470,ViewSonic,Monitor,,,27,,,,,,,,96030
+20487,ViewSonic,Monitor,,,27,,,,,,,,97113
+59166,ViewSonic,Monitor,,,27,,,,,,,,75258
+47912,Alienware,Monitor,,,55,,,,,,,,4944
+16954,Alienware,Monitor,,,55,,,,,,,,68309
+82359,Alienware,Monitor,,,55,,,,,,,,42399
+62871,Alienware,Monitor,,,55,,,,,,,,20665
+61200,Alienware,Monitor,,,55,,,,,,,,26177
+21491,Dell ,Monitor,,,27,,,,,,,,33210
+59927,Dell ,Monitor,,,27,,,,,,,,65614
+52990,Dell ,Monitor,,,27,,,,,,,,21709
+18305,Dell ,Monitor,,,27,,,,,,,,98605
+99343,Dell ,Monitor,,,27,,,,,,,,67233
+79297,Asus ,Monitor,,,43,,,,,,,,58673
+95632,Asus ,Monitor,,,43,,,,,,,,3375
+35169,Asus ,Monitor,,,43,,,,,,,,97132
+17750,Asus ,Monitor,,,43,,,,,,,,63670
+33211,Asus ,Monitor,,,43,,,,,,,,16466
+30457,MSI ,Monitor,,,27,,,,,,,,71366
+638,MSI ,Monitor,,,27,,,,,,,,87863
+47097,MSI ,Monitor,,,27,,,,,,,,48460
+79791,MSI ,Monitor,,,27,,,,,,,,88497
+94926,MSI ,Monitor,,,27,,,,,,,,22674
+71179,LG ,Monitor,,,24,,,,,,,,35812
+19902,LG ,Monitor,,,24,,,,,,,,26767
+32638,LG ,Monitor,,,24,,,,,,,,34616
+49634,LG ,Monitor,,,24,,,,,,,,51498
+12012,LG ,Monitor,,,24,,,,,,,,48805
+60743,MSI ,Monitor,,,27,,,,,,,,52370
+3162,MSI ,Monitor,,,27,,,,,,,,12458
+70628,MSI ,Monitor,,,27,,,,,,,,60547
+71276,MSI ,Monitor,,,27,,,,,,,,6728
+86536,MSI ,Monitor,,,27,,,,,,,,30650
+40369,LG,Monitor,,,24,,,,,,,,37694
+24281,LG,Monitor,,,24,,,,,,,,7314
+32839,LG,Monitor,,,24,,,,,,,,23347
+66787,LG,Monitor,,,24,,,,,,,,52351
+67711,LG,Monitor,,,24,,,,,,,,77534
+90502,Samsung ,Monitor,,,32,,,,,,,,93624
+82850,Samsung ,Monitor,,,32,,,,,,,,95711
+35816,Samsung ,Monitor,,,32,,,,,,,,93195
+87310,Samsung ,Monitor,,,32,,,,,,,,60312
+24778,Samsung ,Monitor,,,32,,,,,,,,38312
+78116,Asus ,Monitor,,,27,,,,,,,,35317
+90701,Asus ,Monitor,,,27,,,,,,,,63999
+79824,Asus ,Monitor,,,27,,,,,,,,5733
+63774,Asus ,Monitor,,,27,,,,,,,,1523
+10772,Asus ,Monitor,,,27,,,,,,,,37646
+15218,Acer ,Monitor,,,34,,,,,,,,84598
+63004,Acer ,Monitor,,,34,,,,,,,,83107
+53944,Acer ,Monitor,,,34,,,,,,,,77893
+74561,Acer ,Monitor,,,34,,,,,,,,46513
+12802,Acer ,Monitor,,,34,,,,,,,,46657
+86549,ViewSonic,Monitor,,,24,,,,,,,,22958
+60338,ViewSonic,Monitor,,,24,,,,,,,,80862
+90328,ViewSonic,Monitor,,,24,,,,,,,,40526
+44195,ViewSonic,Monitor,,,24,,,,,,,,56034
+68411,ViewSonic,Monitor,,,24,,,,,,,,40326
+25898,Acer ,Monitor,,,34,,,,,,,,40290
+77032,Acer ,Monitor,,,34,,,,,,,,99694
+78081,Acer ,Monitor,,,34,,,,,,,,84809
+21952,Acer ,Monitor,,,34,,,,,,,,63348
+24651,Acer ,Monitor,,,34,,,,,,,,71159
+4237,ViewSonic,Monitor,,,24,,,,,,,,96426
+51802,ViewSonic,Monitor,,,24,,,,,,,,84475
+43612,ViewSonic,Monitor,,,24,,,,,,,,92426
+46543,ViewSonic,Monitor,,,24,,,,,,,,15630
+23737,ViewSonic,Monitor,,,24,,,,,,,,87431
+12312,LG UltraGear,Monitor,,,38,,,,,,,,30876
+94247,LG UltraGear,Monitor,,,38,,,,,,,,86728
+67844,LG UltraGear,Monitor,,,38,,,,,,,,28593
+77328,LG UltraGear,Monitor,,,38,,,,,,,,92652
+11974,LG UltraGear,Monitor,,,38,,,,,,,,79898
+35432,Samsung ,Monitor,,,32,,,,,,,,48767
+74519,Samsung ,Monitor,,,32,,,,,,,,37080
+65963,Samsung ,Monitor,,,32,,,,,,,,41459
+33563,Samsung ,Monitor,,,32,,,,,,,,19157
+78226,Samsung ,Monitor,,,32,,,,,,,,94783
+37335,Gigabyte ,Monitor,,,43,,,,,,,,46175
+53497,Gigabyte ,Monitor,,,43,,,,,,,,61733
+44032,Gigabyte ,Monitor,,,43,,,,,,,,17143
+34242,Gigabyte ,Monitor,,,43,,,,,,,,86904
+66236,Gigabyte ,Monitor,,,43,,,,,,,,46622
+59359,Samsung ,Monitor,,,49,,,,,,,,67661
+16713,Samsung ,Monitor,,,49,,,,,,,,49973
+29428,Samsung ,Monitor,,,49,,,,,,,,69808
+7261,Samsung ,Monitor,,,49,,,,,,,,18996
+88838,Samsung ,Monitor,,,49,,,,,,,,21753
+97548,Alienware ,Monitor,,,34,,,,,,,,96950
+44515,Alienware ,Monitor,,,34,,,,,,,,48303
+78406,Alienware ,Monitor,,,34,,,,,,,,64575
+47625,Alienware ,Monitor,,,34,,,,,,,,6312
+63992,Alienware ,Monitor,,,34,,,,,,,,44971
+67518,BenQ ,Monitor,,,32,,,,,,,,35979
+38962,BenQ ,Monitor,,,32,,,,,,,,46350
+25353,BenQ ,Monitor,,,32,,,,,,,,55899
+63090,BenQ ,Monitor,,,32,,,,,,,,42596
+33907,BenQ ,Monitor,,,32,,,,,,,,60959
+45698,Porsche ,Monitor,,,27,,,,,,,,72596
+87549,Porsche ,Monitor,,,27,,,,,,,,10239
+57562,Porsche ,Monitor,,,27,,,,,,,,93515
+25290,Porsche ,Monitor,,,27,,,,,,,,97520
+34939,Porsche ,Monitor,,,27,,,,,,,,83348
+71836,MSI ,Monitor,,,34,,,,,,,,58116
+7732,MSI ,Monitor,,,34,,,,,,,,47586
+67953,MSI ,Monitor,,,34,,,,,,,,14521
+11484,MSI ,Monitor,,,34,,,,,,,,65863
+15613,MSI ,Monitor,,,34,,,,,,,,52887
+41790,Porsche ,Monitor,,,27,,,,,,,,42382
+70087,Porsche ,Monitor,,,27,,,,,,,,23489
+26635,Porsche ,Monitor,,,27,,,,,,,,42721
+72675,Porsche ,Monitor,,,27,,,,,,,,74760
+39248,Porsche ,Monitor,,,27,,,,,,,,35688
+88168,MSI ,Monitor,,,34,,,,,,,,95889
+40212,MSI ,Monitor,,,34,,,,,,,,84781
+41010,MSI ,Monitor,,,34,,,,,,,,75287
+65190,MSI ,Monitor,,,34,,,,,,,,33975
+835,MSI ,Monitor,,,34,,,,,,,,81873
+4612,Acer ,Monitor,,,43,,,,,,,,12558
+88619,Acer ,Monitor,,,43,,,,,,,,77350
+26750,Acer ,Monitor,,,43,,,,,,,,47320
+83505,Acer ,Monitor,,,43,,,,,,,,2986
+30713,Acer ,Monitor,,,43,,,,,,,,38807
+88910,AOC,Monitor,,,32,,,,,,,,85417
+38265,AOC,Monitor,,,32,,,,,,,,16632
+97243,AOC,Monitor,,,32,,,,,,,,96880
+97174,AOC,Monitor,,,32,,,,,,,,31651
+98329,AOC,Monitor,,,32,,,,,,,,7056
+28960,CrossLCD,Monitor,,,32,,,,,,,,76626
+6992,CrossLCD,Monitor,,,32,,,,,,,,66365
+738,CrossLCD,Monitor,,,32,,,,,,,,3935
+28834,CrossLCD,Monitor,,,32,,,,,,,,2703
+98387,CrossLCD,Monitor,,,32,,,,,,,,32484
+15730,HP,Monitor,,,24,,,,,,,,60629
+7757,HP,Monitor,,,24,,,,,,,,27286
+91738,HP,Monitor,,,24,,,,,,,,25959
+26972,HP,Monitor,,,24,,,,,,,,50687
+87502,HP,Monitor,,,24,,,,,,,,22581
+16273,Iiyama,Monitor,,,34,,,,,,,,30559
+86137,Iiyama,Monitor,,,34,,,,,,,,75324
+20270,Iiyama,Monitor,,,34,,,,,,,,63790
+33903,Iiyama,Monitor,,,34,,,,,,,,67766
+97502,Iiyama,Monitor,,,34,,,,,,,,69265
+59622,Lenovo,Monitor,,,27,,,,,,,,77780
+35792,Lenovo,Monitor,,,27,,,,,,,,86038
+42795,Lenovo,Monitor,,,27,,,,,,,,92624
+30395,Lenovo,Monitor,,,27,,,,,,,,18665
+58027,Lenovo,Monitor,,,27,,,,,,,,32492
+21598,Niexus,Monitor,,,27,,,,,,,,25316
+50863,Niexus,Monitor,,,27,,,,,,,,37046
+1744,Niexus,Monitor,,,27,,,,,,,,15593
+96211,Niexus,Monitor,,,27,,,,,,,,67591
+34372,Niexus,Monitor,,,27,,,,,,,,54932
+37635,Viotek,Monitor,,,49,,,,,,,,89415
+98975,Viotek,Monitor,,,49,,,,,,,,14682
+9860,Viotek,Monitor,,,49,,,,,,,,52527
+26566,Viotek,Monitor,,,49,,,,,,,,59355
+61625,Viotek,Monitor,,,49,,,,,,,,25409
+31099,Niexus,Monitor,,,27,,,,,,,,32872
+40948,Niexus,Monitor,,,27,,,,,,,,73959
+18947,Niexus,Monitor,,,27,,,,,,,,41463
+48538,Niexus,Monitor,,,27,,,,,,,,40670
+64079,Niexus,Monitor,,,27,,,,,,,,89099
+31594,Viotek,Monitor,,,49,,,,,,,,42243
+8161,Viotek,Monitor,,,49,,,,,,,,24223
+50213,Viotek,Monitor,,,49,,,,,,,,25504
+29622,Viotek,Monitor,,,49,,,,,,,,52975
+92335,Viotek,Monitor,,,49,,,,,,,,15615
+66056,Kingston,RAM,,,,DDR2,2,,,,,,28085
+84817,Kingston,RAM,,,,DDR2,2,,,,,,84062
+46839,Kingston,RAM,,,,DDR2,2,,,,,,17053
+22227,Kingston,RAM,,,,DDR2,2,,,,,,7922
+13561,Kingston,RAM,,,,DDR2,2,,,,,,63545
+10830,SK Hynix,RAM,,,,DDR3,4,,,,,,97088
+2686,SK Hynix,RAM,,,,DDR3,4,,,,,,34207
+32456,SK Hynix,RAM,,,,DDR3,4,,,,,,623
+37977,SK Hynix,RAM,,,,DDR3,4,,,,,,8301
+92205,SK Hynix,RAM,,,,DDR3,4,,,,,,95832
+7521,Kingston,RAM,,,,DDR2,2,,,,,,17976
+41139,Kingston,RAM,,,,DDR2,2,,,,,,61108
+51298,Kingston,RAM,,,,DDR2,2,,,,,,79150
+74986,Kingston,RAM,,,,DDR2,2,,,,,,20982
+78080,Kingston,RAM,,,,DDR2,2,,,,,,86211
+36340,SK Hynix,RAM,,,,DDR3,4,,,,,,50657
+58052,SK Hynix,RAM,,,,DDR3,4,,,,,,51955
+64748,SK Hynix,RAM,,,,DDR3,4,,,,,,97823
+54995,SK Hynix,RAM,,,,DDR3,4,,,,,,34925
+34178,SK Hynix,RAM,,,,DDR3,4,,,,,,72689
+4377,Kingston,RAM,,,,DDR2,2,,,,,,99345
+30908,Kingston,RAM,,,,DDR2,2,,,,,,46273
+1041,Kingston,RAM,,,,DDR2,2,,,,,,52512
+38040,Kingston,RAM,,,,DDR2,2,,,,,,24660
+44139,Kingston,RAM,,,,DDR2,2,,,,,,11393
+28316,SK Hynix,RAM,,,,DDR3,4,,,,,,95566
+71178,SK Hynix,RAM,,,,DDR3,4,,,,,,87348
+64580,SK Hynix,RAM,,,,DDR3,4,,,,,,78046
+5613,SK Hynix,RAM,,,,DDR3,4,,,,,,22852
+40138,SK Hynix,RAM,,,,DDR3,4,,,,,,80761
+80855,Corsair,RAM,,,,DDR4,8,,,,,,68627
+94867,Corsair,RAM,,,,DDR4,8,,,,,,93207
+79739,Corsair,RAM,,,,DDR4,8,,,,,,96030
+38221,Corsair,RAM,,,,DDR4,8,,,,,,97113
+76488,Corsair,RAM,,,,DDR4,8,,,,,,75258
+83314,SK Hynix,RAM,,,,DDR2,2,,,,,,4944
+66570,SK Hynix,RAM,,,,DDR2,2,,,,,,68309
+39518,SK Hynix,RAM,,,,DDR2,2,,,,,,42399
+51751,SK Hynix,RAM,,,,DDR2,2,,,,,,20665
+6826,SK Hynix,RAM,,,,DDR2,2,,,,,,26177
+48782,SK Hynix,RAM,,,,DDR3,4,,,,,,33210
+74035,SK Hynix,RAM,,,,DDR3,4,,,,,,65614
+39073,SK Hynix,RAM,,,,DDR3,4,,,,,,21709
+43944,SK Hynix,RAM,,,,DDR3,4,,,,,,98605
+57458,SK Hynix,RAM,,,,DDR3,4,,,,,,67233
+56496,Kingston,RAM,,,,DDR3,4,,,,,,58673
+81940,Kingston,RAM,,,,DDR3,4,,,,,,3375
+78584,Kingston,RAM,,,,DDR3,4,,,,,,97132
+7958,Kingston,RAM,,,,DDR3,4,,,,,,63670
+67806,Kingston,RAM,,,,DDR3,4,,,,,,16466
+76886,Simmtronics,RAM,,,,DDR2,2,,,,,,71366
+31743,Simmtronics,RAM,,,,DDR2,2,,,,,,87863
+28706,Simmtronics,RAM,,,,DDR2,2,,,,,,48460
+83407,Simmtronics,RAM,,,,DDR2,2,,,,,,88497
+61565,Simmtronics,RAM,,,,DDR2,2,,,,,,22674
+87746,Samsung,RAM,,,,DDR2,2,,,,,,35812
+65933,Samsung,RAM,,,,DDR2,2,,,,,,26767
+53800,Samsung,RAM,,,,DDR2,2,,,,,,34616
+73205,Samsung,RAM,,,,DDR2,2,,,,,,51498
+54560,Samsung,RAM,,,,DDR2,2,,,,,,48805
+76590,Simmtronics,RAM,,,,DDR3,2,,,,,,52370
+89346,Simmtronics,RAM,,,,DDR3,2,,,,,,12458
+24531,Simmtronics,RAM,,,,DDR3,2,,,,,,60547
+42978,Simmtronics,RAM,,,,DDR3,2,,,,,,6728
+61778,Simmtronics,RAM,,,,DDR3,2,,,,,,30650
+23625,Samsung,RAM,,,,DDR4,2,,,,,,37694
+20592,Samsung,RAM,,,,DDR4,2,,,,,,7314
+86073,Samsung,RAM,,,,DDR4,2,,,,,,23347
+41602,Samsung,RAM,,,,DDR4,2,,,,,,52351
+74746,Samsung,RAM,,,,DDR4,2,,,,,,77534
+88344,Kingston,RAM,,,,DDR3,4,,,,,,93624
+50355,Kingston,RAM,,,,DDR3,4,,,,,,95711
+69058,Kingston,RAM,,,,DDR3,4,,,,,,93195
+28067,Kingston,RAM,,,,DDR3,4,,,,,,60312
+84384,Kingston,RAM,,,,DDR3,4,,,,,,38312
+69086,Adata,RAM,,,,DDR4,2,,,,,,35317
+61316,Adata,RAM,,,,DDR4,2,,,,,,63999
+81164,Adata,RAM,,,,DDR4,2,,,,,,5733
+23457,Adata,RAM,,,,DDR4,2,,,,,,1523
+34793,Adata,RAM,,,,DDR4,2,,,,,,37646
+19871,Simmtronics,RAM,,,,DDR3,2,,,,,,84598
+8061,Simmtronics,RAM,,,,DDR3,2,,,,,,83107
+43558,Simmtronics,RAM,,,,DDR3,2,,,,,,77893
+31596,Simmtronics,RAM,,,,DDR3,2,,,,,,46513
+58306,Simmtronics,RAM,,,,DDR3,2,,,,,,46657
+82729,Transcend,RAM,,,,DDR3,8,,,,,,22958
+49885,Transcend,RAM,,,,DDR3,8,,,,,,80862
+60340,Transcend,RAM,,,,DDR3,8,,,,,,40526
+58615,Transcend,RAM,,,,DDR3,8,,,,,,56034
+9723,Transcend,RAM,,,,DDR3,8,,,,,,40326
+61971,Simmtronics,RAM,,,,DDR3,2,,,,,,40290
+89895,Simmtronics,RAM,,,,DDR3,2,,,,,,99694
+18435,Simmtronics,RAM,,,,DDR3,2,,,,,,84809
+60214,Simmtronics,RAM,,,,DDR3,2,,,,,,63348
+13969,Simmtronics,RAM,,,,DDR3,2,,,,,,71159
+67235,Transcend,RAM,,,,DDR3,8,,,,,,96426
+28194,Transcend,RAM,,,,DDR3,8,,,,,,84475
+12695,Transcend,RAM,,,,DDR3,8,,,,,,92426
+26599,Transcend,RAM,,,,DDR3,8,,,,,,15630
+81409,Transcend,RAM,,,,DDR3,8,,,,,,87431
+2759,Adata,RAM,,,,DDR4,4,,,,,,30876
+15528,Adata,RAM,,,,DDR4,4,,,,,,86728
+39499,Adata,RAM,,,,DDR4,4,,,,,,28593
+95517,Adata,RAM,,,,DDR4,4,,,,,,92652
+17260,Adata,RAM,,,,DDR4,4,,,,,,79898
+39810,Kingston,RAM,,,,DDR4,8,,,,,,48767
+82044,Kingston,RAM,,,,DDR4,8,,,,,,37080
+95604,Kingston,RAM,,,,DDR4,8,,,,,,41459
+3936,Kingston,RAM,,,,DDR4,8,,,,,,19157
+79817,Kingston,RAM,,,,DDR4,8,,,,,,94783
+81344,Corsair,RAM,,,,DDR3,8,,,,,,46175
+23294,Corsair,RAM,,,,DDR3,8,,,,,,61733
+17198,Corsair,RAM,,,,DDR3,8,,,,,,17143
+17069,Corsair,RAM,,,,DDR3,8,,,,,,86904
+31377,Corsair,RAM,,,,DDR3,8,,,,,,46622
+85262,SK Hynix,RAM,,,,DDR2,2,,,,,,67661
+22540,SK Hynix,RAM,,,,DDR2,2,,,,,,49973
+5513,SK Hynix,RAM,,,,DDR2,2,,,,,,69808
+10859,SK Hynix,RAM,,,,DDR2,2,,,,,,18996
+53340,SK Hynix,RAM,,,,DDR2,2,,,,,,21753
+79692,Kingston,RAM,,,,DDR3,8,,,,,,96950
+37383,Kingston,RAM,,,,DDR3,8,,,,,,48303
+65159,Kingston,RAM,,,,DDR3,8,,,,,,64575
+55520,Kingston,RAM,,,,DDR3,8,,,,,,6312
+63221,Kingston,RAM,,,,DDR3,8,,,,,,44971
+86920,Transcend,RAM,,,,DDR3,4,,,,,,35979
+49673,Transcend,RAM,,,,DDR3,4,,,,,,46350
+95470,Transcend,RAM,,,,DDR3,4,,,,,,55899
+19931,Transcend,RAM,,,,DDR3,4,,,,,,42596
+17819,Transcend,RAM,,,,DDR3,4,,,,,,60959
+38885,Zion,RAM,,,,DDR4,4,,,,,,72596
+97484,Zion,RAM,,,,DDR4,4,,,,,,10239
+44652,Zion,RAM,,,,DDR4,4,,,,,,93515
+97219,Zion,RAM,,,,DDR4,4,,,,,,97520
+9384,Zion,RAM,,,,DDR4,4,,,,,,83348
+3338,G.Skill,RAM,,,,DDR2,16,,,,,,58116
+78595,G.Skill,RAM,,,,DDR2,16,,,,,,47586
+91334,G.Skill,RAM,,,,DDR2,16,,,,,,14521
+62410,G.Skill,RAM,,,,DDR2,16,,,,,,65863
+6884,G.Skill,RAM,,,,DDR2,16,,,,,,52887
+38248,Zion,RAM,,,,DDR4,4,,,,,,42382
+43658,Zion,RAM,,,,DDR4,4,,,,,,23489
+76506,Zion,RAM,,,,DDR4,4,,,,,,42721
+5462,Zion,RAM,,,,DDR4,4,,,,,,74760
+69481,Zion,RAM,,,,DDR4,4,,,,,,35688
+33473,G.Skill,RAM,,,,DDR2,16,,,,,,95889
+65733,G.Skill,RAM,,,,DDR2,16,,,,,,84781
+62432,G.Skill,RAM,,,,DDR2,16,,,,,,75287
+14792,G.Skill,RAM,,,,DDR2,16,,,,,,33975
+11670,G.Skill,RAM,,,,DDR2,16,,,,,,81873
+60164,Samsung,RAM,,,,DDR3,4,,,,,,12558
+69087,Samsung,RAM,,,,DDR3,4,,,,,,77350
+62096,Samsung,RAM,,,,DDR3,4,,,,,,47320
+1037,Samsung,RAM,,,,DDR3,4,,,,,,2986
+31790,Samsung,RAM,,,,DDR3,4,,,,,,38807
+76614,A-DATA,RAM,,,,DDR3,8,,,,,,85417
+8589,A-DATA,RAM,,,,DDR3,8,,,,,,16632
+32383,A-DATA,RAM,,,,DDR3,8,,,,,,96880
+38653,A-DATA,RAM,,,,DDR3,8,,,,,,31651
+5843,A-DATA,RAM,,,,DDR3,8,,,,,,7056
+78242,Silicon Power,RAM,,,,DDR2,8,,,,,,76626
+99158,Silicon Power,RAM,,,,DDR2,8,,,,,,66365
+71494,Silicon Power,RAM,,,,DDR2,8,,,,,,3935
+59067,Silicon Power,RAM,,,,DDR2,8,,,,,,2703
+65650,Silicon Power,RAM,,,,DDR2,8,,,,,,32484
+40774,HP,RAM,,,,DDR3,4,,,,,,60629
+85625,HP,RAM,,,,DDR3,4,,,,,,27286
+60541,HP,RAM,,,,DDR3,4,,,,,,25959
+45073,HP,RAM,,,,DDR3,4,,,,,,50687
+16740,HP,RAM,,,,DDR3,4,,,,,,22581
+29052,EVM,RAM,,,,DDR3,4,,,,,,30559
+72842,EVM,RAM,,,,DDR3,4,,,,,,75324
+34977,EVM,RAM,,,,DDR3,4,,,,,,63790
+83548,EVM,RAM,,,,DDR3,4,,,,,,67766
+15818,EVM,RAM,,,,DDR3,4,,,,,,69265
+1544,Samsung,RAM,,,,DDR2,16,,,,,,77780
+50322,Samsung,RAM,,,,DDR2,16,,,,,,86038
+7313,Samsung,RAM,,,,DDR2,16,,,,,,92624
+69891,Samsung,RAM,,,,DDR2,16,,,,,,18665
+97278,Samsung,RAM,,,,DDR2,16,,,,,,32492
+42766,Kingston,RAM,,,,DDR3,8,,,,,,25316
+61756,Kingston,RAM,,,,DDR3,8,,,,,,37046
+75216,Kingston,RAM,,,,DDR3,8,,,,,,15593
+48695,Kingston,RAM,,,,DDR3,8,,,,,,67591
+45285,Kingston,RAM,,,,DDR3,8,,,,,,54932
+49125,EVM,RAM,,,,DDR4,16,,,,,,89415
+12438,EVM,RAM,,,,DDR4,16,,,,,,14682
+73436,EVM,RAM,,,,DDR4,16,,,,,,52527
+51789,EVM,RAM,,,,DDR4,16,,,,,,59355
+47515,EVM,RAM,,,,DDR4,16,,,,,,25409
+8874,Kingston,RAM,,,,DDR3,8,,,,,,32872
+33524,Kingston,RAM,,,,DDR3,8,,,,,,73959
+89889,Kingston,RAM,,,,DDR3,8,,,,,,41463
+6088,Kingston,RAM,,,,DDR3,8,,,,,,40670
+51156,Kingston,RAM,,,,DDR3,8,,,,,,89099
+57002,EVM,RAM,,,,DDR4,16,,,,,,42243
+60471,EVM,RAM,,,,DDR4,16,,,,,,24223
+2481,EVM,RAM,,,,DDR4,16,,,,,,25504
+51559,EVM,RAM,,,,DDR4,16,,,,,,52975
+97289,EVM,RAM,,,,DDR4,16,,,,,,15615
+61787,Seagate ,HardDisk,,,,,2000,7200,,,,,28085
+23281,Seagate ,HardDisk,,,,,2000,7200,,,,,84062
+59087,Seagate ,HardDisk,,,,,2000,7200,,,,,17053
+18356,Seagate ,HardDisk,,,,,2000,7200,,,,,7922
+66203,Seagate ,HardDisk,,,,,2000,7200,,,,,63545
+42365,Toshiba ,HardDisk,,,,,4000,7200,,,,,97088
+75731,Toshiba ,HardDisk,,,,,4000,7200,,,,,34207
+54790,Toshiba ,HardDisk,,,,,4000,7200,,,,,623
+74647,Toshiba ,HardDisk,,,,,4000,7200,,,,,8301
+75521,Toshiba ,HardDisk,,,,,4000,7200,,,,,95832
+24504,Seagate ,HardDisk,,,,,2000,7200,,,,,17976
+99618,Seagate ,HardDisk,,,,,2000,7200,,,,,61108
+96564,Seagate ,HardDisk,,,,,2000,7200,,,,,79150
+18167,Seagate ,HardDisk,,,,,2000,7200,,,,,20982
+2992,Seagate ,HardDisk,,,,,2000,7200,,,,,86211
+24131,Toshiba ,HardDisk,,,,,4000,7200,,,,,50657
+64604,Toshiba ,HardDisk,,,,,4000,7200,,,,,51955
+65372,Toshiba ,HardDisk,,,,,4000,7200,,,,,97823
+31949,Toshiba ,HardDisk,,,,,4000,7200,,,,,34925
+95326,Toshiba ,HardDisk,,,,,4000,7200,,,,,72689
+33318,Seagate ,HardDisk,,,,,2000,7200,,,,,99345
+63400,Seagate ,HardDisk,,,,,2000,7200,,,,,46273
+84024,Seagate ,HardDisk,,,,,2000,7200,,,,,52512
+50741,Seagate ,HardDisk,,,,,2000,7200,,,,,24660
+70902,Seagate ,HardDisk,,,,,2000,7200,,,,,11393
+67157,Toshiba ,HardDisk,,,,,4000,7200,,,,,95566
+14282,Toshiba ,HardDisk,,,,,4000,7200,,,,,87348
+20691,Toshiba ,HardDisk,,,,,4000,7200,,,,,78046
+7844,Toshiba ,HardDisk,,,,,4000,7200,,,,,22852
+58705,Toshiba ,HardDisk,,,,,4000,7200,,,,,80761
+66616,WD,HardDisk,,,,,250,10000,,,,,68627
+48244,WD,HardDisk,,,,,250,10000,,,,,93207
+57348,WD,HardDisk,,,,,250,10000,,,,,96030
+64342,WD,HardDisk,,,,,250,10000,,,,,97113
+55518,WD,HardDisk,,,,,250,10000,,,,,75258
+46368,WD,HardDisk,,,,,500,5400,,,,,4944
+53069,WD,HardDisk,,,,,500,5400,,,,,68309
+93326,WD,HardDisk,,,,,500,5400,,,,,42399
+38793,WD,HardDisk,,,,,500,5400,,,,,20665
+46238,WD,HardDisk,,,,,500,5400,,,,,26177
+11074,Seagate ,HardDisk,,,,,1000,7200,,,,,33210
+68337,Seagate ,HardDisk,,,,,1000,7200,,,,,65614
+26339,Seagate ,HardDisk,,,,,1000,7200,,,,,21709
+74539,Seagate ,HardDisk,,,,,1000,7200,,,,,98605
+87112,Seagate ,HardDisk,,,,,1000,7200,,,,,67233
+13984,Seagate ,HardDisk,,,,,6000,7200,,,,,58673
+67377,Seagate ,HardDisk,,,,,6000,7200,,,,,3375
+18061,Seagate ,HardDisk,,,,,6000,7200,,,,,97132
+63147,Seagate ,HardDisk,,,,,6000,7200,,,,,63670
+74359,Seagate ,HardDisk,,,,,6000,7200,,,,,16466
+24564,Seagate ,HardDisk,,,,,500,5400,,,,,71366
+36521,Seagate ,HardDisk,,,,,500,5400,,,,,87863
+14877,Seagate ,HardDisk,,,,,500,5400,,,,,48460
+97286,Seagate ,HardDisk,,,,,500,5400,,,,,88497
+30514,Seagate ,HardDisk,,,,,500,5400,,,,,22674
+36263,WD,HardDisk,,,,,3000,7200,,,,,35812
+80154,WD,HardDisk,,,,,3000,7200,,,,,26767
+23764,WD,HardDisk,,,,,3000,7200,,,,,34616
+45019,WD,HardDisk,,,,,3000,7200,,,,,51498
+30095,WD,HardDisk,,,,,3000,7200,,,,,48805
+29723,Seagate ,HardDisk,,,,,500,5400,,,,,52370
+87283,Seagate ,HardDisk,,,,,500,5400,,,,,12458
+68375,Seagate ,HardDisk,,,,,500,5400,,,,,60547
+8289,Seagate ,HardDisk,,,,,500,5400,,,,,6728
+16941,Seagate ,HardDisk,,,,,500,5400,,,,,30650
+41143,WD,HardDisk,,,,,3000,7200,,,,,37694
+54052,WD,HardDisk,,,,,3000,7200,,,,,7314
+5976,WD,HardDisk,,,,,3000,7200,,,,,23347
+89087,WD,HardDisk,,,,,3000,7200,,,,,52351
+76072,WD,HardDisk,,,,,3000,7200,,,,,77534
+4983,G-Technology,HardDisk,,,,,4000,5400,,,,,93624
+94869,G-Technology,HardDisk,,,,,4000,5400,,,,,95711
+96737,G-Technology,HardDisk,,,,,4000,5400,,,,,93195
+20970,G-Technology,HardDisk,,,,,4000,5400,,,,,60312
+43591,G-Technology,HardDisk,,,,,4000,5400,,,,,38312
+17250,Stargate,HardDisk,,,,,14000,7200,,,,,35317
+10532,Stargate,HardDisk,,,,,14000,7200,,,,,63999
+21622,Stargate,HardDisk,,,,,14000,7200,,,,,5733
+5469,Stargate,HardDisk,,,,,14000,7200,,,,,1523
+5474,Stargate,HardDisk,,,,,14000,7200,,,,,37646
+64722,WP,HardDisk,,,,,12000,7200,,,,,84598
+9601,WP,HardDisk,,,,,12000,7200,,,,,83107
+30372,WP,HardDisk,,,,,12000,7200,,,,,77893
+93966,WP,HardDisk,,,,,12000,7200,,,,,46513
+45709,WP,HardDisk,,,,,12000,7200,,,,,46657
+24716,Toshiba ,HardDisk,,,,,10000,7200,,,,,22958
+70145,Toshiba ,HardDisk,,,,,10000,7200,,,,,80862
+66917,Toshiba ,HardDisk,,,,,10000,7200,,,,,40526
+88743,Toshiba ,HardDisk,,,,,10000,7200,,,,,56034
+72442,Toshiba ,HardDisk,,,,,10000,7200,,,,,40326
+8709,WP,HardDisk,,,,,12000,7200,,,,,40290
+73937,WP,HardDisk,,,,,12000,7200,,,,,99694
+76099,WP,HardDisk,,,,,12000,7200,,,,,84809
+4422,WP,HardDisk,,,,,12000,7200,,,,,63348
+64168,WP,HardDisk,,,,,12000,7200,,,,,71159
+38815,Toshiba ,HardDisk,,,,,10000,7200,,,,,96426
+67182,Toshiba ,HardDisk,,,,,10000,7200,,,,,84475
+68460,Toshiba ,HardDisk,,,,,10000,7200,,,,,92426
+67008,Toshiba ,HardDisk,,,,,10000,7200,,,,,15630
+80572,Toshiba ,HardDisk,,,,,10000,7200,,,,,87431
+35136,MEGAZ,HardDisk,,,,,500,5400,,,,,30876
+64779,MEGAZ,HardDisk,,,,,500,5400,,,,,86728
+6445,MEGAZ,HardDisk,,,,,500,5400,,,,,28593
+11858,MEGAZ,HardDisk,,,,,500,5400,,,,,92652
+48054,MEGAZ,HardDisk,,,,,500,5400,,,,,79898
+94079,WD,HardDisk,,,,,250,7200,,,,,48767
+44310,WD,HardDisk,,,,,250,7200,,,,,37080
+41073,WD,HardDisk,,,,,250,7200,,,,,41459
+32501,WD,HardDisk,,,,,250,7200,,,,,19157
+36424,WD,HardDisk,,,,,250,7200,,,,,94783
+49445,Toshiba ,HardDisk,,,,,6000,7200,,,,,46175
+16247,Toshiba ,HardDisk,,,,,6000,7200,,,,,61733
+22270,Toshiba ,HardDisk,,,,,6000,7200,,,,,17143
+60880,Toshiba ,HardDisk,,,,,6000,7200,,,,,86904
+54637,Toshiba ,HardDisk,,,,,6000,7200,,,,,46622
+88468,Seagate ,HardDisk,,,,,14000,10000,,,,,67661
+49873,Seagate ,HardDisk,,,,,14000,10000,,,,,49973
+7956,Seagate ,HardDisk,,,,,14000,10000,,,,,69808
+97715,Seagate ,HardDisk,,,,,14000,10000,,,,,18996
+1992,Seagate ,HardDisk,,,,,14000,10000,,,,,21753
+20005,MaxDigitalData,HardDisk,,,,,8000,7200,,,,,96950
+32720,MaxDigitalData,HardDisk,,,,,8000,7200,,,,,48303
+13171,MaxDigitalData,HardDisk,,,,,8000,7200,,,,,64575
+49734,MaxDigitalData,HardDisk,,,,,8000,7200,,,,,6312
+91471,MaxDigitalData,HardDisk,,,,,8000,7200,,,,,44971
+14216,Toshiba ,HardDisk,,,,,8000,7200,,,,,35979
+27625,Toshiba ,HardDisk,,,,,8000,7200,,,,,46350
+4234,Toshiba ,HardDisk,,,,,8000,7200,,,,,55899
+13343,Toshiba ,HardDisk,,,,,8000,7200,,,,,42596
+8250,Toshiba ,HardDisk,,,,,8000,7200,,,,,60959
+46240,OWC,HardDisk,,,,,240,5400,,,,,72596
+41097,OWC,HardDisk,,,,,240,5400,,,,,10239
+7354,OWC,HardDisk,,,,,240,5400,,,,,93515
+78947,OWC,HardDisk,,,,,240,5400,,,,,97520
+37848,OWC,HardDisk,,,,,240,5400,,,,,83348
+22514,HITACHI,HardDisk,,,,,120,7200,,,,,58116
+39100,HITACHI,HardDisk,,,,,120,7200,,,,,47586
+37238,HITACHI,HardDisk,,,,,120,7200,,,,,14521
+50369,HITACHI,HardDisk,,,,,120,7200,,,,,65863
+93794,HITACHI,HardDisk,,,,,120,7200,,,,,52887
+85778,OWC,HardDisk,,,,,240,5400,,,,,42382
+34414,OWC,HardDisk,,,,,240,5400,,,,,23489
+45466,OWC,HardDisk,,,,,240,5400,,,,,42721
+74877,OWC,HardDisk,,,,,240,5400,,,,,74760
+14882,OWC,HardDisk,,,,,240,5400,,,,,35688
+12031,HITACHI,HardDisk,,,,,120,7200,,,,,95889
+22452,HITACHI,HardDisk,,,,,120,7200,,,,,84781
+49226,HITACHI,HardDisk,,,,,120,7200,,,,,75287
+41397,HITACHI,HardDisk,,,,,120,7200,,,,,33975
+72298,HITACHI,HardDisk,,,,,120,7200,,,,,81873
+44660,G-Technology,HardDisk,,,,,500,7200,,,,,12558
+54119,G-Technology,HardDisk,,,,,500,7200,,,,,77350
+77517,G-Technology,HardDisk,,,,,500,7200,,,,,47320
+79488,G-Technology,HardDisk,,,,,500,7200,,,,,2986
+85355,G-Technology,HardDisk,,,,,500,7200,,,,,38807
+24518,Stargate,HardDisk,,,,,1000,5400,,,,,85417
+75401,Stargate,HardDisk,,,,,1000,5400,,,,,16632
+45674,Stargate,HardDisk,,,,,1000,5400,,,,,96880
+86919,Stargate,HardDisk,,,,,1000,5400,,,,,31651
+77687,Stargate,HardDisk,,,,,1000,5400,,,,,7056
+95722,WP,HardDisk,,,,,6000,7200,,,,,76626
+70840,WP,HardDisk,,,,,6000,7200,,,,,66365
+19705,WP,HardDisk,,,,,6000,7200,,,,,3935
+91883,WP,HardDisk,,,,,6000,7200,,,,,2703
+29602,WP,HardDisk,,,,,6000,7200,,,,,32484
+7488,Toshiba ,HardDisk,,,,,500,5400,,,,,60629
+84903,Toshiba ,HardDisk,,,,,500,5400,,,,,27286
+44261,Toshiba ,HardDisk,,,,,500,5400,,,,,25959
+23385,Toshiba ,HardDisk,,,,,500,5400,,,,,50687
+29621,Toshiba ,HardDisk,,,,,500,5400,,,,,22581
+13563,MEGAZ,HardDisk,,,,,3000,7200,,,,,30559
+6657,MEGAZ,HardDisk,,,,,3000,7200,,,,,75324
+41970,MEGAZ,HardDisk,,,,,3000,7200,,,,,63790
+57098,MEGAZ,HardDisk,,,,,3000,7200,,,,,67766
+90161,MEGAZ,HardDisk,,,,,3000,7200,,,,,69265
+15487,MaxDigitalData,HardDisk,,,,,1000,7200,,,,,77780
+76127,MaxDigitalData,HardDisk,,,,,1000,7200,,,,,86038
+4329,MaxDigitalData,HardDisk,,,,,1000,7200,,,,,92624
+59552,MaxDigitalData,HardDisk,,,,,1000,7200,,,,,18665
+86044,MaxDigitalData,HardDisk,,,,,1000,7200,,,,,32492
+65116,Seagate ,HardDisk,,,,,500,5400,,,,,25316
+22861,Seagate ,HardDisk,,,,,500,5400,,,,,37046
+87050,Seagate ,HardDisk,,,,,500,5400,,,,,15593
+25783,Seagate ,HardDisk,,,,,500,5400,,,,,67591
+65587,Seagate ,HardDisk,,,,,500,5400,,,,,54932
+3200,MEGAZ,HardDisk,,,,,3000,7200,,,,,89415
+94673,MEGAZ,HardDisk,,,,,3000,7200,,,,,14682
+2208,MEGAZ,HardDisk,,,,,3000,7200,,,,,52527
+80012,MEGAZ,HardDisk,,,,,3000,7200,,,,,59355
+73088,MEGAZ,HardDisk,,,,,3000,7200,,,,,25409
+32138,Seagate ,HardDisk,,,,,500,5400,,,,,32872
+59946,Seagate ,HardDisk,,,,,500,5400,,,,,73959
+63104,Seagate ,HardDisk,,,,,500,5400,,,,,41463
+27029,Seagate ,HardDisk,,,,,500,5400,,,,,40670
+64915,Seagate ,HardDisk,,,,,500,5400,,,,,89099
+20875,MEGAZ,HardDisk,,,,,3000,7200,,,,,42243
+27001,MEGAZ,HardDisk,,,,,3000,7200,,,,,24223
+77812,MEGAZ,HardDisk,,,,,3000,7200,,,,,25504
+97356,MEGAZ,HardDisk,,,,,3000,7200,,,,,52975
+39837,MEGAZ,HardDisk,,,,,3000,7200,,,,,15615
+30462,LG,DVD-ROM,,,,,,,160,,,,28085
+94759,LG,DVD-ROM,,,,,,,160,,,,84062
+96414,LG,DVD-ROM,,,,,,,160,,,,17053
+45166,LG,DVD-ROM,,,,,,,160,,,,7922
+10251,LG,DVD-ROM,,,,,,,160,,,,63545
+88747,Asus,DVD-ROM,,,,,,,160,,,,97088
+2030,Asus,DVD-ROM,,,,,,,160,,,,34207
+50712,Asus,DVD-ROM,,,,,,,160,,,,623
+91131,Asus,DVD-ROM,,,,,,,160,,,,8301
+8236,Asus,DVD-ROM,,,,,,,160,,,,95832
+72838,LG,DVD-ROM,,,,,,,160,,,,17976
+65825,LG,DVD-ROM,,,,,,,160,,,,61108
+72190,LG,DVD-ROM,,,,,,,160,,,,79150
+45660,LG,DVD-ROM,,,,,,,160,,,,20982
+7093,LG,DVD-ROM,,,,,,,160,,,,86211
+68235,Asus,DVD-ROM,,,,,,,160,,,,50657
+10962,Asus,DVD-ROM,,,,,,,160,,,,51955
+60817,Asus,DVD-ROM,,,,,,,160,,,,97823
+80052,Asus,DVD-ROM,,,,,,,160,,,,34925
+15838,Asus,DVD-ROM,,,,,,,160,,,,72689
+73729,LG,DVD-ROM,,,,,,,160,,,,99345
+62832,LG,DVD-ROM,,,,,,,160,,,,46273
+51094,LG,DVD-ROM,,,,,,,160,,,,52512
+33761,LG,DVD-ROM,,,,,,,160,,,,24660
+51190,LG,DVD-ROM,,,,,,,160,,,,11393
+72637,Asus,DVD-ROM,,,,,,,160,,,,95566
+28002,Asus,DVD-ROM,,,,,,,160,,,,87348
+56421,Asus,DVD-ROM,,,,,,,160,,,,78046
+49188,Asus,DVD-ROM,,,,,,,160,,,,22852
+48873,Asus,DVD-ROM,,,,,,,160,,,,80761
+10783,LITE-ON,DVD-ROM,,,,,,,139,,,,68627
+29436,LITE-ON,DVD-ROM,,,,,,,139,,,,93207
+94837,LITE-ON,DVD-ROM,,,,,,,139,,,,96030
+39346,LITE-ON,DVD-ROM,,,,,,,139,,,,97113
+27917,LITE-ON,DVD-ROM,,,,,,,139,,,,75258
+45391,Adaptec,DVD-ROM,,,,,,,241,,,,4944
+87766,Adaptec,DVD-ROM,,,,,,,241,,,,68309
+90848,Adaptec,DVD-ROM,,,,,,,241,,,,42399
+16028,Adaptec,DVD-ROM,,,,,,,241,,,,20665
+72072,Adaptec,DVD-ROM,,,,,,,241,,,,26177
+89099,Addonics,DVD-ROM,,,,,,,199,,,,33210
+42560,Addonics,DVD-ROM,,,,,,,199,,,,65614
+16026,Addonics,DVD-ROM,,,,,,,199,,,,21709
+80377,Addonics,DVD-ROM,,,,,,,199,,,,98605
+31711,Addonics,DVD-ROM,,,,,,,199,,,,67233
+34458,Archos,DVD-ROM,,,,,,,160,,,,58673
+56834,Archos,DVD-ROM,,,,,,,160,,,,3375
+78849,Archos,DVD-ROM,,,,,,,160,,,,97132
+95771,Archos,DVD-ROM,,,,,,,160,,,,63670
+26057,Archos,DVD-ROM,,,,,,,160,,,,16466
+98691,BenQ,DVD-ROM,,,,,,,228,,,,71366
+99976,BenQ,DVD-ROM,,,,,,,228,,,,87863
+55705,BenQ,DVD-ROM,,,,,,,228,,,,48460
+25938,BenQ,DVD-ROM,,,,,,,228,,,,88497
+59577,BenQ,DVD-ROM,,,,,,,228,,,,22674
+16872,Creative,DVD-ROM,,,,,,,234,,,,35812
+46267,Creative,DVD-ROM,,,,,,,234,,,,26767
+93565,Creative,DVD-ROM,,,,,,,234,,,,34616
+19604,Creative,DVD-ROM,,,,,,,234,,,,51498
+81306,Creative,DVD-ROM,,,,,,,234,,,,48805
+46036,BenQ,DVD-ROM,,,,,,,228,,,,52370
+93498,BenQ,DVD-ROM,,,,,,,228,,,,12458
+33405,BenQ,DVD-ROM,,,,,,,228,,,,60547
+39612,BenQ,DVD-ROM,,,,,,,228,,,,6728
+51960,BenQ,DVD-ROM,,,,,,,228,,,,30650
+78628,Creative,DVD-ROM,,,,,,,234,,,,37694
+88207,Creative,DVD-ROM,,,,,,,234,,,,7314
+85941,Creative,DVD-ROM,,,,,,,234,,,,23347
+42549,Creative,DVD-ROM,,,,,,,234,,,,52351
+12109,Creative,DVD-ROM,,,,,,,234,,,,77534
+67603,GoldStar,DVD-ROM,,,,,,,163,,,,93624
+11762,GoldStar,DVD-ROM,,,,,,,163,,,,95711
+55847,GoldStar,DVD-ROM,,,,,,,163,,,,93195
+79777,GoldStar,DVD-ROM,,,,,,,163,,,,60312
+97091,GoldStar,DVD-ROM,,,,,,,163,,,,38312
+38512,Golden Hawk,DVD-ROM,,,,,,,162,,,,35317
+37396,Golden Hawk,DVD-ROM,,,,,,,162,,,,63999
+6049,Golden Hawk,DVD-ROM,,,,,,,162,,,,5733
+57408,Golden Hawk,DVD-ROM,,,,,,,162,,,,1523
+23493,Golden Hawk,DVD-ROM,,,,,,,162,,,,37646
+6368,HP,DVD-ROM,,,,,,,239,,,,84598
+86570,HP,DVD-ROM,,,,,,,239,,,,83107
+1848,HP,DVD-ROM,,,,,,,239,,,,77893
+59075,HP,DVD-ROM,,,,,,,239,,,,46513
+74697,HP,DVD-ROM,,,,,,,239,,,,46657
+83250,I/O Magic,DVD-ROM,,,,,,,206,,,,22958
+19554,I/O Magic,DVD-ROM,,,,,,,206,,,,80862
+79737,I/O Magic,DVD-ROM,,,,,,,206,,,,40526
+83235,I/O Magic,DVD-ROM,,,,,,,206,,,,56034
+6152,I/O Magic,DVD-ROM,,,,,,,206,,,,40326
+25889,HP,DVD-ROM,,,,,,,239,,,,40290
+47209,HP,DVD-ROM,,,,,,,239,,,,99694
+94241,HP,DVD-ROM,,,,,,,239,,,,84809
+34367,HP,DVD-ROM,,,,,,,239,,,,63348
+42864,HP,DVD-ROM,,,,,,,239,,,,71159
+35965,I/O Magic,DVD-ROM,,,,,,,206,,,,96426
+22948,I/O Magic,DVD-ROM,,,,,,,206,,,,84475
+19981,I/O Magic,DVD-ROM,,,,,,,206,,,,92426
+39608,I/O Magic,DVD-ROM,,,,,,,206,,,,15630
+28802,I/O Magic,DVD-ROM,,,,,,,206,,,,87431
+46273,InterVideo,DVD-ROM,,,,,,,182,,,,30876
+13205,InterVideo,DVD-ROM,,,,,,,182,,,,86728
+34268,InterVideo,DVD-ROM,,,,,,,182,,,,28593
+77043,InterVideo,DVD-ROM,,,,,,,182,,,,92652
+97109,InterVideo,DVD-ROM,,,,,,,182,,,,79898
+38977,JVC,DVD-ROM,,,,,,,242,,,,48767
+87431,JVC,DVD-ROM,,,,,,,242,,,,37080
+90079,JVC,DVD-ROM,,,,,,,242,,,,41459
+87128,JVC,DVD-ROM,,,,,,,242,,,,19157
+84906,JVC,DVD-ROM,,,,,,,242,,,,94783
+62203,Kanguru,DVD-ROM,,,,,,,181,,,,46175
+69654,Kanguru,DVD-ROM,,,,,,,181,,,,61733
+96777,Kanguru,DVD-ROM,,,,,,,181,,,,17143
+10025,Kanguru,DVD-ROM,,,,,,,181,,,,86904
+82103,Kanguru,DVD-ROM,,,,,,,181,,,,46622
+81238,LG Electronics,DVD-ROM,,,,,,,233,,,,67661
+18685,LG Electronics,DVD-ROM,,,,,,,233,,,,49973
+29532,LG Electronics,DVD-ROM,,,,,,,233,,,,69808
+39245,LG Electronics,DVD-ROM,,,,,,,233,,,,18996
+13377,LG Electronics,DVD-ROM,,,,,,,233,,,,21753
+91354,LITE-ON,DVD-ROM,,,,,,,240,,,,96950
+73076,LITE-ON,DVD-ROM,,,,,,,240,,,,48303
+84406,LITE-ON,DVD-ROM,,,,,,,240,,,,64575
+21119,LITE-ON,DVD-ROM,,,,,,,240,,,,6312
+29185,LITE-ON,DVD-ROM,,,,,,,240,,,,44971
+85187,Margi,DVD-ROM,,,,,,,190,,,,35979
+51192,Margi,DVD-ROM,,,,,,,190,,,,46350
+26103,Margi,DVD-ROM,,,,,,,190,,,,55899
+41105,Margi,DVD-ROM,,,,,,,190,,,,42596
+24102,Margi,DVD-ROM,,,,,,,190,,,,60959
+84379,Panasonic,DVD-ROM,,,,,,,164,,,,72596
+86926,Panasonic,DVD-ROM,,,,,,,164,,,,10239
+98582,Panasonic,DVD-ROM,,,,,,,164,,,,93515
+66148,Panasonic,DVD-ROM,,,,,,,164,,,,97520
+17829,Panasonic,DVD-ROM,,,,,,,164,,,,83348
+18298,Pioneer,DVD-ROM,,,,,,,201,,,,58116
+61819,Pioneer,DVD-ROM,,,,,,,201,,,,47586
+65481,Pioneer,DVD-ROM,,,,,,,201,,,,14521
+46983,Pioneer,DVD-ROM,,,,,,,201,,,,65863
+35926,Pioneer,DVD-ROM,,,,,,,201,,,,52887
+57715,Panasonic,DVD-ROM,,,,,,,164,,,,42382
+68801,Panasonic,DVD-ROM,,,,,,,164,,,,23489
+75318,Panasonic,DVD-ROM,,,,,,,164,,,,42721
+66830,Panasonic,DVD-ROM,,,,,,,164,,,,74760
+85737,Panasonic,DVD-ROM,,,,,,,164,,,,35688
+31945,Pioneer,DVD-ROM,,,,,,,201,,,,95889
+95656,Pioneer,DVD-ROM,,,,,,,201,,,,84781
+36968,Pioneer,DVD-ROM,,,,,,,201,,,,75287
+55430,Pioneer,DVD-ROM,,,,,,,201,,,,33975
+22130,Pioneer,DVD-ROM,,,,,,,201,,,,81873
+27830,Plextor,DVD-ROM,,,,,,,199,,,,12558
+79601,Plextor,DVD-ROM,,,,,,,199,,,,77350
+84562,Plextor,DVD-ROM,,,,,,,199,,,,47320
+54798,Plextor,DVD-ROM,,,,,,,199,,,,2986
+2015,Plextor,DVD-ROM,,,,,,,199,,,,38807
+76144,Sanyo,DVD-ROM,,,,,,,225,,,,85417
+88114,Sanyo,DVD-ROM,,,,,,,225,,,,16632
+71219,Sanyo,DVD-ROM,,,,,,,225,,,,96880
+38005,Sanyo,DVD-ROM,,,,,,,225,,,,31651
+18090,Sanyo,DVD-ROM,,,,,,,225,,,,7056
+43916,Sigma Designs,DVD-ROM,,,,,,,235,,,,76626
+73283,Sigma Designs,DVD-ROM,,,,,,,235,,,,66365
+19488,Sigma Designs,DVD-ROM,,,,,,,235,,,,3935
+98857,Sigma Designs,DVD-ROM,,,,,,,235,,,,2703
+61753,Sigma Designs,DVD-ROM,,,,,,,235,,,,32484
+46488,Sony,DVD-ROM,,,,,,,161,,,,60629
+74516,Sony,DVD-ROM,,,,,,,161,,,,27286
+30416,Sony,DVD-ROM,,,,,,,161,,,,25959
+9732,Sony,DVD-ROM,,,,,,,161,,,,50687
+8257,Sony,DVD-ROM,,,,,,,161,,,,22581
+36372,TDK,DVD-ROM,,,,,,,163,,,,30559
+33189,TDK,DVD-ROM,,,,,,,163,,,,75324
+65468,TDK,DVD-ROM,,,,,,,163,,,,63790
+76837,TDK,DVD-ROM,,,,,,,163,,,,67766
+26163,TDK,DVD-ROM,,,,,,,163,,,,69265
+92493,Toshiba,DVD-ROM,,,,,,,205,,,,77780
+35463,Toshiba,DVD-ROM,,,,,,,205,,,,86038
+96724,Toshiba,DVD-ROM,,,,,,,205,,,,92624
+93706,Toshiba,DVD-ROM,,,,,,,205,,,,18665
+7994,Toshiba,DVD-ROM,,,,,,,205,,,,32492
+54214,Yamaha,DVD-ROM,,,,,,,210,,,,25316
+24904,Yamaha,DVD-ROM,,,,,,,210,,,,37046
+17624,Yamaha,DVD-ROM,,,,,,,210,,,,15593
+21270,Yamaha,DVD-ROM,,,,,,,210,,,,67591
+26963,Yamaha,DVD-ROM,,,,,,,210,,,,54932
+45086,Zoran,DVD-ROM,,,,,,,161,,,,89415
+8478,Zoran,DVD-ROM,,,,,,,161,,,,14682
+4222,Zoran,DVD-ROM,,,,,,,161,,,,52527
+10354,Zoran,DVD-ROM,,,,,,,161,,,,59355
+96705,Zoran,DVD-ROM,,,,,,,161,,,,25409
+64142,Yamaha,DVD-ROM,,,,,,,210,,,,32872
+28939,Yamaha,DVD-ROM,,,,,,,210,,,,73959
+97803,Yamaha,DVD-ROM,,,,,,,210,,,,41463
+8463,Yamaha,DVD-ROM,,,,,,,210,,,,40670
+35311,Yamaha,DVD-ROM,,,,,,,210,,,,89099
+64612,Zoran,DVD-ROM,,,,,,,161,,,,42243
+83204,Zoran,DVD-ROM,,,,,,,161,,,,24223
+33951,Zoran,DVD-ROM,,,,,,,161,,,,25504
+61760,Zoran,DVD-ROM,,,,,,,161,,,,52975
+35574,Zoran,DVD-ROM,,,,,,,161,,,,15615
+28166,Intel,Matièna ploèa,,,,,,,,Z590,,,28085
+36612,Intel,Matièna ploèa,,,,,,,,Z590,,,84062
+32098,Intel,Matièna ploèa,,,,,,,,Z590,,,17053
+14520,Intel,Matièna ploèa,,,,,,,,Z590,,,7922
+18923,Intel,Matièna ploèa,,,,,,,,Z590,,,63545
+72291,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,97088
+48617,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,34207
+13198,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,623
+81087,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,8301
+18533,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,95832
+89911,Intel,Matièna ploèa,,,,,,,,Z590,,,17976
+96675,Intel,Matièna ploèa,,,,,,,,Z590,,,61108
+84326,Intel,Matièna ploèa,,,,,,,,Z590,,,79150
+70595,Intel,Matièna ploèa,,,,,,,,Z590,,,20982
+47869,Intel,Matièna ploèa,,,,,,,,Z590,,,86211
+71431,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,50657
+68105,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,51955
+27424,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,97823
+20427,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,34925
+53021,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,72689
+59021,Intel,Matièna ploèa,,,,,,,,Z590,,,99345
+61343,Intel,Matièna ploèa,,,,,,,,Z590,,,46273
+6794,Intel,Matièna ploèa,,,,,,,,Z590,,,52512
+70225,Intel,Matièna ploèa,,,,,,,,Z590,,,24660
+35795,Intel,Matièna ploèa,,,,,,,,Z590,,,11393
+91546,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,95566
+33123,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,87348
+40364,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,78046
+80992,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,22852
+23838,Gigabyte,Matièna ploèa,,,,,,,,Z390,,,80761
+56259,Intel,Matièna ploèa,,,,,,,,B560,,,68627
+25635,Intel,Matièna ploèa,,,,,,,,B560,,,93207
+75138,Intel,Matièna ploèa,,,,,,,,B560,,,96030
+83479,Intel,Matièna ploèa,,,,,,,,B560,,,97113
+68651,Intel,Matièna ploèa,,,,,,,,B560,,,75258
+67751,Intel,Matièna ploèa,,,,,,,,H510,,,4944
+44994,Intel,Matièna ploèa,,,,,,,,H510,,,68309
+21420,Intel,Matièna ploèa,,,,,,,,H510,,,42399
+10231,Intel,Matièna ploèa,,,,,,,,H510,,,20665
+99435,Intel,Matièna ploèa,,,,,,,,H510,,,26177
+38033,Intel,Matièna ploèa,,,,,,,,Z490,,,33210
+22981,Intel,Matièna ploèa,,,,,,,,Z490,,,65614
+92698,Intel,Matièna ploèa,,,,,,,,Z490,,,21709
+8992,Intel,Matièna ploèa,,,,,,,,Z490,,,98605
+44868,Intel,Matièna ploèa,,,,,,,,Z490,,,67233
+15809,Intel,Matièna ploèa,,,,,,,,H470,,,58673
+85308,Intel,Matièna ploèa,,,,,,,,H470,,,3375
+75817,Intel,Matièna ploèa,,,,,,,,H470,,,97132
+31754,Intel,Matièna ploèa,,,,,,,,H470,,,63670
+79620,Intel,Matièna ploèa,,,,,,,,H470,,,16466
+47452,Intel,Matièna ploèa,,,,,,,,H410,,,71366
+30502,Intel,Matièna ploèa,,,,,,,,H410,,,87863
+69310,Intel,Matièna ploèa,,,,,,,,H410,,,48460
+73954,Intel,Matièna ploèa,,,,,,,,H410,,,88497
+50198,Intel,Matièna ploèa,,,,,,,,H410,,,22674
+10214,Intel,Matièna ploèa,,,,,,,,B460,,,35812
+29943,Intel,Matièna ploèa,,,,,,,,B460,,,26767
+20998,Intel,Matièna ploèa,,,,,,,,B460,,,34616
+50026,Intel,Matièna ploèa,,,,,,,,B460,,,51498
+17284,Intel,Matièna ploèa,,,,,,,,B460,,,48805
+66757,Intel,Matièna ploèa,,,,,,,,H410,,,52370
+62580,Intel,Matièna ploèa,,,,,,,,H410,,,12458
+96757,Intel,Matièna ploèa,,,,,,,,H410,,,60547
+43534,Intel,Matièna ploèa,,,,,,,,H410,,,6728
+16700,Intel,Matièna ploèa,,,,,,,,H410,,,30650
+21341,Intel,Matièna ploèa,,,,,,,,B460,,,37694
+86826,Intel,Matièna ploèa,,,,,,,,B460,,,7314
+3028,Intel,Matièna ploèa,,,,,,,,B460,,,23347
+32492,Intel,Matièna ploèa,,,,,,,,B460,,,52351
+19978,Intel,Matièna ploèa,,,,,,,,B460,,,77534
+45442,Intel,Matièna ploèa,,,,,,,,Z390,,,93624
+54189,Intel,Matièna ploèa,,,,,,,,Z390,,,95711
+45343,Intel,Matièna ploèa,,,,,,,,Z390,,,93195
+70373,Intel,Matièna ploèa,,,,,,,,Z390,,,60312
+81405,Intel,Matièna ploèa,,,,,,,,Z390,,,38312
+49290,Intel,Matièna ploèa,,,,,,,,Z370,,,35317
+99772,Intel,Matièna ploèa,,,,,,,,Z370,,,63999
+87486,Intel,Matièna ploèa,,,,,,,,Z370,,,5733
+32620,Intel,Matièna ploèa,,,,,,,,Z370,,,1523
+14564,Intel,Matièna ploèa,,,,,,,,Z370,,,37646
+11874,Intel,Matièna ploèa,,,,,,,,H370,,,84598
+88071,Intel,Matièna ploèa,,,,,,,,H370,,,83107
+53611,Intel,Matièna ploèa,,,,,,,,H370,,,77893
+82246,Intel,Matièna ploèa,,,,,,,,H370,,,46513
+98042,Intel,Matièna ploèa,,,,,,,,H370,,,46657
+77983,Gigabyte,Matièna ploèa,,,,,,,,H570,,,22958
+93236,Gigabyte,Matièna ploèa,,,,,,,,H570,,,80862
+92156,Gigabyte,Matièna ploèa,,,,,,,,H570,,,40526
+38147,Gigabyte,Matièna ploèa,,,,,,,,H570,,,56034
+79169,Gigabyte,Matièna ploèa,,,,,,,,H570,,,40326
+62873,Intel,Matièna ploèa,,,,,,,,H370,,,40290
+18501,Intel,Matièna ploèa,,,,,,,,H370,,,99694
+99038,Intel,Matièna ploèa,,,,,,,,H370,,,84809
+8695,Intel,Matièna ploèa,,,,,,,,H370,,,63348
+31203,Intel,Matièna ploèa,,,,,,,,H370,,,71159
+47514,Gigabyte,Matièna ploèa,,,,,,,,H570,,,96426
+4269,Gigabyte,Matièna ploèa,,,,,,,,H570,,,84475
+4350,Gigabyte,Matièna ploèa,,,,,,,,H570,,,92426
+28274,Gigabyte,Matièna ploèa,,,,,,,,H570,,,15630
+50090,Gigabyte,Matièna ploèa,,,,,,,,H570,,,87431
+42681,Intel,Matièna ploèa,,,,,,,,B360,,,30876
+42361,Intel,Matièna ploèa,,,,,,,,B360,,,86728
+24053,Intel,Matièna ploèa,,,,,,,,B360,,,28593
+16055,Intel,Matièna ploèa,,,,,,,,B360,,,92652
+43394,Intel,Matièna ploèa,,,,,,,,B360,,,79898
+50538,AMD,Matièna ploèa,,,,,,,,TRX40,,,48767
+29352,AMD,Matièna ploèa,,,,,,,,TRX40,,,37080
+12872,AMD,Matièna ploèa,,,,,,,,TRX40,,,41459
+87909,AMD,Matièna ploèa,,,,,,,,TRX40,,,19157
+59678,AMD,Matièna ploèa,,,,,,,,TRX40,,,94783
+26127,AMD,Matièna ploèa,,,,,,,,X570,,,46175
+25672,AMD,Matièna ploèa,,,,,,,,X570,,,61733
+65719,AMD,Matièna ploèa,,,,,,,,X570,,,17143
+4604,AMD,Matièna ploèa,,,,,,,,X570,,,86904
+68061,AMD,Matièna ploèa,,,,,,,,X570,,,46622
+38370,AMD,Matièna ploèa,,,,,,,,B550,,,67661
+35780,AMD,Matièna ploèa,,,,,,,,B550,,,49973
+57239,AMD,Matièna ploèa,,,,,,,,B550,,,69808
+84577,AMD,Matièna ploèa,,,,,,,,B550,,,18996
+44506,AMD,Matièna ploèa,,,,,,,,B550,,,21753
+13534,AMD,Matièna ploèa,,,,,,,,A520,,,96950
+17390,AMD,Matièna ploèa,,,,,,,,A520,,,48303
+72381,AMD,Matièna ploèa,,,,,,,,A520,,,64575
+9896,AMD,Matièna ploèa,,,,,,,,A520,,,6312
+74146,AMD,Matièna ploèa,,,,,,,,A520,,,44971
+71965,AMD,Matièna ploèa,,,,,,,,X470,,,35979
+58087,AMD,Matièna ploèa,,,,,,,,X470,,,46350
+66837,AMD,Matièna ploèa,,,,,,,,X470,,,55899
+7992,AMD,Matièna ploèa,,,,,,,,X470,,,42596
+6886,AMD,Matièna ploèa,,,,,,,,X470,,,60959
+16340,Asus,Matièna ploèa,,,,,,,,B550,,,72596
+86890,Asus,Matièna ploèa,,,,,,,,B550,,,10239
+90394,Asus,Matièna ploèa,,,,,,,,B550,,,93515
+17688,Asus,Matièna ploèa,,,,,,,,B550,,,97520
+48764,Asus,Matièna ploèa,,,,,,,,B550,,,83348
+42471,AMD,Matièna ploèa,,,,,,,,B450,,,58116
+68484,AMD,Matièna ploèa,,,,,,,,B450,,,47586
+93283,AMD,Matièna ploèa,,,,,,,,B450,,,14521
+26551,AMD,Matièna ploèa,,,,,,,,B450,,,65863
+96519,AMD,Matièna ploèa,,,,,,,,B450,,,52887
+75701,AMD,Matièna ploèa,,,,,,,,B550,,,42382
+27430,AMD,Matièna ploèa,,,,,,,,B550,,,23489
+64228,AMD,Matièna ploèa,,,,,,,,B550,,,42721
+5019,AMD,Matièna ploèa,,,,,,,,B550,,,74760
+53055,AMD,Matièna ploèa,,,,,,,,B550,,,35688
+28777,AMD,Matièna ploèa,,,,,,,,B450,,,95889
+42939,AMD,Matièna ploèa,,,,,,,,B450,,,84781
+70516,AMD,Matièna ploèa,,,,,,,,B450,,,75287
+5537,AMD,Matièna ploèa,,,,,,,,B450,,,33975
+35250,AMD,Matièna ploèa,,,,,,,,B450,,,81873
+43110,AMD,Matièna ploèa,,,,,,,,X300,,,12558
+34518,AMD,Matièna ploèa,,,,,,,,X300,,,77350
+92746,AMD,Matièna ploèa,,,,,,,,X300,,,47320
+22201,AMD,Matièna ploèa,,,,,,,,X300,,,2986
+77222,AMD,Matièna ploèa,,,,,,,,X300,,,38807
+78319,AMD,Matièna ploèa,,,,,,,,A300,,,85417
+32918,AMD,Matièna ploèa,,,,,,,,A300,,,16632
+35802,AMD,Matièna ploèa,,,,,,,,A300,,,96880
+4582,AMD,Matièna ploèa,,,,,,,,A300,,,31651
+3741,AMD,Matièna ploèa,,,,,,,,A300,,,7056
+96481,Asus,Matièna ploèa,,,,,,,,Z390,,,76626
+8541,Asus,Matièna ploèa,,,,,,,,Z390,,,66365
+47542,Asus,Matièna ploèa,,,,,,,,Z390,,,3935
+52431,Asus,Matièna ploèa,,,,,,,,Z390,,,2703
+18563,Asus,Matièna ploèa,,,,,,,,Z390,,,32484
+39207,Intel,Matièna ploèa,,,,,,,,Z390,,,60629
+67473,Intel,Matièna ploèa,,,,,,,,Z390,,,27286
+51933,Intel,Matièna ploèa,,,,,,,,Z390,,,25959
+54449,Intel,Matièna ploèa,,,,,,,,Z390,,,50687
+86307,Intel,Matièna ploèa,,,,,,,,Z390,,,22581
+26802,MSI,Matièna ploèa,,,,,,,,X570,,,30559
+45524,MSI,Matièna ploèa,,,,,,,,X570,,,75324
+53009,MSI,Matièna ploèa,,,,,,,,X570,,,63790
+11444,MSI,Matièna ploèa,,,,,,,,X570,,,67766
+62652,MSI,Matièna ploèa,,,,,,,,X570,,,69265
+98451,AMD,Matièna ploèa,,,,,,,,X399,,,77780
+90734,AMD,Matièna ploèa,,,,,,,,X399,,,86038
+47380,AMD,Matièna ploèa,,,,,,,,X399,,,92624
+86397,AMD,Matièna ploèa,,,,,,,,X399,,,18665
+55684,AMD,Matièna ploèa,,,,,,,,X399,,,32492
+13242,ASRock,Matièna ploèa,,,,,,,,A520,,,25316
+33006,ASRock,Matièna ploèa,,,,,,,,A520,,,37046
+6308,ASRock,Matièna ploèa,,,,,,,,A520,,,15593
+81619,ASRock,Matièna ploèa,,,,,,,,A520,,,67591
+91350,ASRock,Matièna ploèa,,,,,,,,A520,,,54932
+11252,Intel,Matièna ploèa,,,,,,,,B365,,,89415
+26496,Intel,Matièna ploèa,,,,,,,,B365,,,14682
+83244,Intel,Matièna ploèa,,,,,,,,B365,,,52527
+90936,Intel,Matièna ploèa,,,,,,,,B365,,,59355
+17765,Intel,Matièna ploèa,,,,,,,,B365,,,25409
+79625,ASRock,Matièna ploèa,,,,,,,,A520,,,32872
+14899,ASRock,Matièna ploèa,,,,,,,,A520,,,73959
+53111,ASRock,Matièna ploèa,,,,,,,,A520,,,41463
+37427,ASRock,Matièna ploèa,,,,,,,,A520,,,40670
+97472,ASRock,Matièna ploèa,,,,,,,,A520,,,89099
+63303,Intel,Matièna ploèa,,,,,,,,B365,,,42243
+98640,Intel,Matièna ploèa,,,,,,,,B365,,,24223
+77889,Intel,Matièna ploèa,,,,,,,,B365,,,25504
+37457,Intel,Matièna ploèa,,,,,,,,B365,,,52975
+47032,Intel,Matièna ploèa,,,,,,,,B365,,,15615
+60548,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,28085
+99432,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,84062
+41021,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,17053
+12458,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,7922
+66303,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,63545
+2563,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,97088
+47815,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,34207
+92357,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,623
+25252,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,8301
+78024,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,95832
+76549,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,17976
+37559,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,61108
+34236,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,79150
+17201,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,20982
+95981,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,86211
+16032,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,50657
+28774,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,51955
+22262,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,97823
+98001,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,34925
+50776,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,72689
+95599,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,99345
+51295,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,46273
+60224,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,52512
+28367,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,24660
+85265,AMD ,Procesor,AMD Ryzen 9 5900X,,,,,,,,3.7,12,11393
+74057,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,95566
+18551,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,87348
+70240,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,78046
+82727,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,22852
+98880,Intel,Procesor,Intel Core i9-11900K,,,,,,,,3.5,8,80761
+95428,AMD,Procesor,AMD Ryzen 7 5800X,,,,,,,,3.8,8,68627
+51205,AMD,Procesor,AMD Ryzen 7 5800X,,,,,,,,3.8,8,93207
+46958,AMD,Procesor,AMD Ryzen 7 5800X,,,,,,,,3.8,8,96030
+66703,AMD,Procesor,AMD Ryzen 7 5800X,,,,,,,,3.8,8,97113
+10587,AMD,Procesor,AMD Ryzen 7 5800X,,,,,,,,3.8,8,75258
+1786,AMD,Procesor,AMD Ryzen 5 5600X,,,,,,,,3.7,6,4944
+1184,AMD,Procesor,AMD Ryzen 5 5600X,,,,,,,,3.7,6,68309
+25368,AMD,Procesor,AMD Ryzen 5 5600X,,,,,,,,3.7,6,42399
+33786,AMD,Procesor,AMD Ryzen 5 5600X,,,,,,,,3.7,6,20665
+10390,AMD,Procesor,AMD Ryzen 5 5600X,,,,,,,,3.7,6,26177
+53313,Intel,Procesor,Intel Core i7-11700K,,,,,,,,3.6,8,33210
+18212,Intel,Procesor,Intel Core i7-11700K,,,,,,,,3.6,8,65614
+58266,Intel,Procesor,Intel Core i7-11700K,,,,,,,,3.6,8,21709
+1272,Intel,Procesor,Intel Core i7-11700K,,,,,,,,3.6,8,98605
+50550,Intel,Procesor,Intel Core i7-11700K,,,,,,,,3.6,8,67233
+90585,Intel,Procesor,Intel W-3175X,,,,,,,,3.1,28,58673
+45855,Intel,Procesor,Intel W-3175X,,,,,,,,3.1,28,3375
+12234,Intel,Procesor,Intel W-3175X,,,,,,,,3.1,28,97132
+84143,Intel,Procesor,Intel W-3175X,,,,,,,,3.1,28,63670
+45758,Intel,Procesor,Intel W-3175X,,,,,,,,3.1,28,16466
+75294,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,71366
+65628,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,87863
+54420,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,48460
+25234,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,88497
+41336,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,22674
+59069,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,35812
+55987,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,26767
+18711,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,34616
+34616,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,51498
+1496,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,48805
+54208,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,52370
+32932,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,12458
+46342,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,60547
+58907,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,6728
+87880,AMD ,Procesor,AMD Ryzen 7 5700G*,,,,,,,,3.8,38,30650
+16426,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,37694
+31433,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,7314
+85972,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,23347
+17560,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,52351
+44044,Intel ,Procesor,Intel Core i5-10600K,,,,,,,,4.1,6,77534
+89474,AMD ,Procesor,AMD Ryzen 9 3950X,,,,,,,,3.5,16,93624
+2404,AMD ,Procesor,AMD Ryzen 9 3950X,,,,,,,,3.5,16,95711
+17534,AMD ,Procesor,AMD Ryzen 9 3950X,,,,,,,,3.5,16,93195
+69672,AMD ,Procesor,AMD Ryzen 9 3950X,,,,,,,,3.5,16,60312
+78706,AMD ,Procesor,AMD Ryzen 9 3950X,,,,,,,,3.5,16,38312
+89104,AMD ,Procesor,AMD Threadripper 3970X,,,,,,,,3.7,32,35317
+41415,AMD ,Procesor,AMD Threadripper 3970X,,,,,,,,3.7,32,63999
+46347,AMD ,Procesor,AMD Threadripper 3970X,,,,,,,,3.7,32,5733
+97123,AMD ,Procesor,AMD Threadripper 3970X,,,,,,,,3.7,32,1523
+47732,AMD ,Procesor,AMD Threadripper 3970X,,,,,,,,3.7,32,37646
+69386,Intel ,Procesor,Intel Core i3-10100,,,,,,,,3.6,4,84598
+40959,Intel ,Procesor,Intel Core i3-10101,,,,,,,,3.6,4,83107
+95321,Intel ,Procesor,Intel Core i3-10102,,,,,,,,3.6,4,77893
+83247,Intel ,Procesor,Intel Core i3-10103,,,,,,,,3.6,4,46513
+61882,Intel ,Procesor,Intel Core i3-10104,,,,,,,,3.6,4,46657
+55983,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,22958
+90986,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,80862
+15789,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,40526
+22152,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,56034
+9168,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,40326
+19370,Intel ,Procesor,Intel Core i3-10100,,,,,,,,3.6,4,40290
+85722,Intel ,Procesor,Intel Core i3-10101,,,,,,,,3.6,4,99694
+55185,Intel ,Procesor,Intel Core i3-10102,,,,,,,,3.6,4,84809
+17360,Intel ,Procesor,Intel Core i3-10103,,,,,,,,3.6,4,63348
+84194,Intel ,Procesor,Intel Core i3-10104,,,,,,,,3.6,4,71159
+62784,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,96426
+79867,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,84475
+46069,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,92426
+47262,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,15630
+15444,AMD ,Procesor,AMD Ryzen 7 2700X,,,,,,,,3.7,8,87431
+40917,AMD ,Procesor,AMD Ryzen 7 4750G*,,,,,,,,3.8,8,30876
+50817,AMD ,Procesor,AMD Ryzen 7 4750G*,,,,,,,,3.8,8,86728
+63959,AMD ,Procesor,AMD Ryzen 7 4750G*,,,,,,,,3.8,8,28593
+24139,AMD ,Procesor,AMD Ryzen 7 4750G*,,,,,,,,3.8,8,92652
+86265,AMD ,Procesor,AMD Ryzen 7 4750G*,,,,,,,,3.8,8,79898
+2126,AMD ,Procesor,AMD Ryzen 3 3100,,,,,,,,3.8,4,48767
+38379,AMD ,Procesor,AMD Ryzen 3 3101,,,,,,,,3.8,4,37080
+24529,AMD ,Procesor,AMD Ryzen 3 3102,,,,,,,,3.8,4,41459
+51962,AMD ,Procesor,AMD Ryzen 3 3103,,,,,,,,3.8,4,19157
+67746,AMD ,Procesor,AMD Ryzen 3 3104,,,,,,,,3.8,4,94783
+95226,Intel ,Procesor,Intel Core i9-7980XE,,,,,,,,2.6,18,46175
+90102,Intel ,Procesor,Intel Core i9-7980XE,,,,,,,,2.6,18,61733
+86886,Intel ,Procesor,Intel Core i9-7980XE,,,,,,,,2.6,18,17143
+56957,Intel ,Procesor,Intel Core i9-7980XE,,,,,,,,2.6,18,86904
+16436,Intel ,Procesor,Intel Core i9-7980XE,,,,,,,,2.6,18,46622
+88664,Intel ,Procesor,Intel Core i9-7900X,,,,,,,,3.3,10,67661
+8595,Intel ,Procesor,Intel Core i9-7900X,,,,,,,,3.3,10,49973
+84889,Intel ,Procesor,Intel Core i9-7900X,,,,,,,,3.3,10,69808
+55509,Intel ,Procesor,Intel Core i9-7900X,,,,,,,,3.3,10,18996
+40407,Intel ,Procesor,Intel Core i9-7900X,,,,,,,,3.3,10,21753
+35943,AMD ,Procesor,AMD Ryzen 5 2600X,,,,,,,,3.6,6,96950
+69833,AMD ,Procesor,AMD Ryzen 5 2600X,,,,,,,,3.6,6,48303
+6292,AMD ,Procesor,AMD Ryzen 5 2600X,,,,,,,,3.6,6,64575
+59982,AMD ,Procesor,AMD Ryzen 5 2600X,,,,,,,,3.6,6,6312
+7642,AMD ,Procesor,AMD Ryzen 5 2600X,,,,,,,,3.6,6,44971
+5497,Intel ,Procesor,Intel Core i7-7700K,,,,,,,,4.2,4,35979
+78566,Intel ,Procesor,Intel Core i7-7700K,,,,,,,,4.2,4,46350
+23014,Intel ,Procesor,Intel Core i7-7700K,,,,,,,,4.2,4,55899
+35728,Intel ,Procesor,Intel Core i7-7700K,,,,,,,,4.2,4,42596
+66907,Intel ,Procesor,Intel Core i7-7700K,,,,,,,,4.2,4,60959
+52281,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,72596
+9411,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,10239
+99986,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,93515
+42700,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,97520
+17919,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,83348
+58740,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,58116
+22078,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,47586
+22654,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,14521
+24450,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,65863
+91953,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,52887
+14119,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,42382
+35121,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,23489
+58801,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,42721
+83638,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,74760
+50627,AMD ,Procesor,AMD Threadripper 2990WX (GM),,,,,,,,3,32,35688
+73026,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,95889
+42033,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,84781
+13584,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,75287
+76165,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,33975
+35153,Intel ,Procesor,Intel Core i7-7820X,,,,,,,,3.6,8,81873
+33200,AMD ,Procesor,AMD Threadripper 2950X (GM),,,,,,,,3.5,16,12558
+89205,AMD ,Procesor,AMD Threadripper 2950X (GM),,,,,,,,3.5,16,77350
+21720,AMD ,Procesor,AMD Threadripper 2950X (GM),,,,,,,,3.5,16,47320
+77096,AMD ,Procesor,AMD Threadripper 2950X (GM),,,,,,,,3.5,16,2986
+93748,AMD ,Procesor,AMD Threadripper 2950X (GM),,,,,,,,3.5,16,38807
+34348,AMD ,Procesor,AMD Threadripper 2970WX,,,,,,,,3,24,85417
+46108,AMD ,Procesor,AMD Threadripper 2970WX,,,,,,,,3,24,16632
+46131,AMD ,Procesor,AMD Threadripper 2970WX,,,,,,,,3,24,96880
+20575,AMD ,Procesor,AMD Threadripper 2970WX,,,,,,,,3,24,31651
+64592,AMD ,Procesor,AMD Threadripper 2970WX,,,,,,,,3,24,7056
+94866,AMD ,Procesor,AMD Ryzen 7 2700,,,,,,,,3.2,8,76626
+30801,AMD ,Procesor,AMD Ryzen 7 2701,,,,,,,,3.2,8,66365
+67830,AMD ,Procesor,AMD Ryzen 7 2702,,,,,,,,3.2,8,3935
+63703,AMD ,Procesor,AMD Ryzen 7 2703,,,,,,,,3.2,8,2703
+45631,AMD ,Procesor,AMD Ryzen 7 2704,,,,,,,,3.2,8,32484
+55160,AMD ,Procesor,AMD Threadripper 1900X (GM),,,,,,,,3.8,8,60629
+66085,AMD ,Procesor,AMD Threadripper 1900X (GM),,,,,,,,3.8,8,27286
+9017,AMD ,Procesor,AMD Threadripper 1900X (GM),,,,,,,,3.8,8,25959
+23193,AMD ,Procesor,AMD Threadripper 1900X (GM),,,,,,,,3.8,8,50687
+88352,AMD ,Procesor,AMD Threadripper 1900X (GM),,,,,,,,3.8,8,22581
+50246,Intel ,Procesor,Intel Core i7-7700,,,,,,,,3.6,4,30559
+14235,Intel ,Procesor,Intel Core i7-7701,,,,,,,,3.6,4,75324
+21436,Intel ,Procesor,Intel Core i7-7702,,,,,,,,3.6,4,63790
+1664,Intel ,Procesor,Intel Core i7-7703,,,,,,,,3.6,4,67766
+21046,Intel ,Procesor,Intel Core i7-7704,,,,,,,,3.6,4,69265
+55229,AMD ,Procesor,AMD Ryzen 5 2600,,,,,,,,3.4,6,77780
+46116,AMD ,Procesor,AMD Ryzen 5 2601,,,,,,,,3.4,6,86038
+74888,AMD ,Procesor,AMD Ryzen 5 2602,,,,,,,,3.4,6,92624
+78911,AMD ,Procesor,AMD Ryzen 5 2603,,,,,,,,3.4,6,18665
+1398,AMD ,Procesor,AMD Ryzen 5 2604,,,,,,,,3.4,6,32492
+9040,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,25316
+93894,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,37046
+29513,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,15593
+51279,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,67591
+3446,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,54932
+12460,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,89415
+90027,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,14682
+43897,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,52527
+49942,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,59355
+53341,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,25409
+8751,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,32872
+15549,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,73959
+12343,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,41463
+12322,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,40670
+65789,Intel ,Procesor,Intel Core i7-7800X,,,,,,,,3.5,6,89099
+56453,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,42243
+23467,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,24223
+43556,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,25504
+87642,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,52975
+34875,Intel ,Procesor,Intel Core i5-7600K,,,,,,,,3.8,4,15615

@@ -1,0 +1,8 @@
+Na svakom racunaru ima instalirano
+po 20 igrica
+ukupno 4000 inserta 
+
+U jednoj igraonici ima 10 racunara 
+U jednoj igraonici ukupno 200 igrica 
+raspolozivo 
+175 igrica moraju se neke ponavjati 

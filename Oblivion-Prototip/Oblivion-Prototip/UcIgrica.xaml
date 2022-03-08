@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="Oblivion_Prototip.UcIgrica"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Oblivion_Prototip"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.FontWeight="Regular"
+            TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+            TextOptions.TextRenderingMode="Auto"
+             FontFamily="Zen Tokyo Zoo" FontWeight="Bold" FontSize="15"  Background="#FF01010C" Margin="15">
+    <Grid>
+        <materialDesign:Flipper>
+            <materialDesign:Flipper.FrontContent  >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Button Background="{x:Null}" Width="150" Height="150" Command="{x:Static materialDesign:Flipper.FlipCommand}" >
+                        <Image Name="imgSlikaIgrice" Stretch="Fill"  Source="Resources/Aoeiii.jpg" />
+                    </Button>
+                    <TextBlock Name="tbImeIgrice" Grid.Row="1"
+                   Margin="5 5 5 5"
+                    VerticalAlignment="Center" TextWrapping="WrapWithOverflow"
+                    Text="Ime igrice" HorizontalAlignment="Center" Foreground="WhiteSmoke" FontSize="13"/>
+                </Grid>
+            </materialDesign:Flipper.FrontContent>
+            <materialDesign:Flipper.BackContent>
+                <Grid 
+                 Height="150"
+                 Width="150" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition
+                     Height="Auto" />
+                        <RowDefinition
+                    Height="*" />
+                    </Grid.RowDefinitions>
+                    <materialDesign:ColorZone
+                     Mode="Dark">
+                        <StackPanel
+                        Orientation="Horizontal">
+                            <Button
+                            Style="{StaticResource MaterialDesignToolForegroundButton}"
+                            Command="{x:Static materialDesign:Flipper.FlipCommand}"
+                            HorizontalAlignment="Left" VerticalAlignment="Center">
+                                <materialDesign:PackIcon
+                            Kind="ArrowLeft"
+                            HorizontalAlignment="Right" />
+                            </Button>
+                        </StackPanel>
+                        </materialDesign:ColorZone>
+                    <Grid
+                        Grid.Row="1"
+                        Width="150">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="3*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Name="tbVrsta"
+                         Text="Vrsta Igrice" Foreground="WhiteSmoke" Margin="3 3 0 0" FontSize="13" TextWrapping="WrapWithOverflow"/>
+                        <TextBlock Grid.Row="1"
+                         Text="Računari:" Foreground="#FF673AB7" Margin="3 3 0 0" FontSize="13"/>
+                        <StackPanel Grid.Row="2" Name="spRacunari" CanVerticallyScroll="True" >
+                            
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </materialDesign:Flipper.BackContent>
+        </materialDesign:Flipper>
+    </Grid>
+</UserControl>

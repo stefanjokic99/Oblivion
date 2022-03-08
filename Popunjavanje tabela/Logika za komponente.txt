@@ -1,0 +1,6 @@
+20 igraonica 
+svaka igraonica ima 10 racunara
+5 jednih i 5 drugih
+razlicitih igraonica 14
+2 tipa racunara po igraonici 
+28 razlicitih komponenti 

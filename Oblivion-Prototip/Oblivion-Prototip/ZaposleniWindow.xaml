@@ -1,0 +1,113 @@
+﻿<Window x:Class="Oblivion_Prototip.ZaposleniWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oblivion_Prototip"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz" 
+        xmlns:controls="clr-namespace:System.Windows.Controls;assembly=DotNetProjects.Input.Toolkit"
+        mc:Ignorable="d"
+        Title="Zaposleni" Height="700" Width="1250" MinHeight="700" MinWidth="1250" WindowStyle="None" WindowState="Maximized"
+         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="#FF01010C"
+        PreviewKeyDown="ZaposleniWindow_PreviewKeyDown" StateChanged="ZaposleniWindow_StateChanged"
+        FontFamily="Zen Tokyo Zoo" FontWeight="Bold" FontSize="15"   >
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="12*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70" />
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="70" />
+            <ColumnDefinition Width="70" />
+        </Grid.ColumnDefinitions>
+
+        <Button Name="btnIgraonica" Background="{x:Null}" Grid.Column="0" Margin="5,10" Click="btnIgraonica_Click" >
+            <materialDesign:PackIcon Kind="GoogleController" Height="22" Width="28"/>
+            <Button.ToolTip>
+                <ToolTip Background="#FF251149">
+                    <Label  Content="Podaci o igraonici" Background="Transparent"/>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <Button Name="btnPromjena" Background="{x:Null}" Grid.Column="2" Margin="5,10" Click="btnPromjena_Click">
+            <materialDesign:PackIcon Kind="AccountCog" />
+            <Button.ToolTip>
+                <ToolTip Background="#FF251149">
+                    <Label  Content="Izmjena ličnih podataka" Background="Transparent"/>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <Button Name="btnOdjava" Background="{x:Null}" Grid.Column="3" Margin="5,10" Click="btnOdjava_Click">
+            <materialDesign:PackIcon Kind="Logout" />
+            <Button.ToolTip>
+                <ToolTip Background="#FF251149">
+                    <Label  Content="Odjava sa sistema" Background="Transparent"/>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <dragablz:TabablzControl Grid.Row="1" Grid.ColumnSpan="4" >
+            <dragablz:TabablzControl.InterTabController>
+                <dragablz:InterTabController/>
+            </dragablz:TabablzControl.InterTabController>
+            <TabItem >
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal" >
+                    <materialDesign:PackIcon Kind="DesktopClassic" Foreground="WhiteSmoke"/>
+                        <TextBlock Text=" POČETNA STRANICA  " Foreground="WhiteSmoke"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid x:Name="mreza" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="424*"/>
+                        <ColumnDefinition Width="187*"/>
+                    </Grid.ColumnDefinitions> 
+                    <ScrollViewer Margin="10" Grid.Row="1"  Grid.Column="0" VerticalScrollBarVisibility="Auto">
+                    <WrapPanel x:Name="wrapRacunari"/>
+                </ScrollViewer>
+                    <StackPanel Name="spPodaci" Background="DimGray"  Grid.Column="1" Height="800" />
+                </Grid>
+            </TabItem>
+            <TabItem>
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal" >
+                        <materialDesign:PackIcon Kind="GamepadVariantOutline" Foreground="WhiteSmoke"/>
+                        <TextBlock Text=" IGRICE  " Foreground="WhiteSmoke"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="4*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid  VerticalAlignment="Center" Grid.Column="1" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="6*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Name="btnSearch" Background="DimGray" IsDefault="True" Click="btnSearch_Click" >
+                            <materialDesign:PackIcon Kind="Magnify" />
+                        </Button>
+                        <controls:AutoCompleteBox Grid.Column="1" Name="acSearchBox" Background="DimGray" Foreground="WhiteSmoke" VerticalContentAlignment="Center"></controls:AutoCompleteBox>
+                    </Grid>
+                    <ScrollViewer Margin="10" Grid.Row="1"  Grid.ColumnSpan="2" VerticalScrollBarVisibility="Auto">
+                        <WrapPanel x:Name="wrapIgrice" />
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+        </dragablz:TabablzControl>
+
+    </Grid>
+</Window>
