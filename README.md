@@ -63,4 +63,4 @@ This application was created for educational purposes and is released under an o
 
 ## Contact
 
-For any additional information or questions, you can contact the authors at danijelamilanovic222@gmail.com, stefan.jokic99@hotmail.com
+For any additional information or questions, you can contact the authors at danijelamilanovic222@gmail.com, stefan.jokic99@hotmail.com.
